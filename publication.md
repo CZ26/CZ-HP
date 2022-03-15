@@ -3,12 +3,6 @@ layout: default
 title: "publication"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
-
 ##Journals
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021
