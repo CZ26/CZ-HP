@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: "publication"
 ---
 
-##Journals
+## Journals
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021
 
@@ -17,7 +17,7 @@ title: "publication"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing (under reviewing)
 
-##Conferences
+## Conferences
 
 Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
 
@@ -35,6 +35,6 @@ Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-
 
 Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on Training Story Generation Models Based on Event Representations" In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD), IEEE, 2020.
 
-##Miscellaneous
+## Miscellaneous
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Dataset].http://doi.org/10.5281/zenodo.4590253
