@@ -41,4 +41,6 @@ Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on 
 
 ## Miscellaneous
 
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro. "CycleTransGAN-EVC: A CycleGAN-based Emotional Voice Conversion Model with Transformer." arXiv preprint arXiv:2111.15159 (2021).
+
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Dataset].http://doi.org/10.5281/zenodo.4590253
