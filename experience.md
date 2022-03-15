@@ -5,7 +5,7 @@ title: "Educations and Positions"
 
 
 
-## Education
+## Educations
 2019.10-2022.03    Ph.D.   Osaka University, 
 
 2017.10-2019.09    M.E.    Osaka University, Japan
