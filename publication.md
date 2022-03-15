@@ -17,6 +17,8 @@ title: "publication"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing (under reviewing)
 
+
+
 ## Conferences
 
 Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
@@ -34,6 +36,8 @@ Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-
 **Changzeng Fu**, Chaoran Liu, Carlos Ishi, Yuichiro Yoshikawa, and Hiroshi Ishiguro. "SeMemNN: A Semantic Matrix-Based Memory Neural Network for Text Classification." In 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pp. 123-127. IEEE, 2020.
 
 Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on Training Story Generation Models Based on Event Representations" In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD), IEEE, 2020.
+
+
 
 ## Miscellaneous
 
