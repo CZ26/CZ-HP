@@ -6,9 +6,9 @@ title: "Educations and Positions"
 
 
 ## Educations
-2019.10-2022.03 &nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Osaka University, 
+2019.10-2022.03 &nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Osaka University, Japan (Prof. Hiroshi Ishiguro is my supervisor.) 
 
-2017.10-2019.09 &nbsp;&nbsp; M.E. &nbsp;&nbsp; Osaka University, Japan
+2017.10-2019.09 &nbsp;&nbsp; M.E. &nbsp;&nbsp; Osaka University, Japan (Prof. Hiroshi Ishiguro is my supervisor.)
 
 2013.09-2017.06 &nbsp;&nbsp; B.S. &nbsp;&nbsp; Northeastern University, China
 
