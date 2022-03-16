@@ -21,6 +21,6 @@ My research interests include human-robot interaction, robot emotional expressio
 
 ------
 
-こんにちは、フ　ショウゼン と申します。今は、[大阪大学知能ロボティクス研究室](https://www.irl.sys.es.osaka-u.ac.jp/)の特任助教です。
+こんにちは、フ　ショウゼン と申します。今は、[大阪大学知能ロボティクス研究室](https://www.irl.sys.es.osaka-u.ac.jp/)に特任助教として勤めています。
 
-研究テーマは、人間とロボットのインタラクション、ロボットの感情表現、アフェクティブコンピューティング、およびその関連分野となります。
+研究キーワード：人間とロボットのインタラクション、ロボットの感情表現、アフェクティブコンピューティング、および関連分野。
