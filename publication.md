@@ -11,7 +11,7 @@ title: "publications"
 
 **Changzeng Fu**, Qi Deng, Jingcheng Shen, Hamed Mahzoon, and Hiroshi Ishiguro. "A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally." Sensors 22, no. 3 (2022): 991.
 
-**Changzeng Fu**u, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-based Emotional Speech Conversion Model by Augmenting Receptive Field with Transformer", Speech Communication (under reviewing)
 
@@ -29,7 +29,7 @@ Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An End-to-End Multitask Learning Model to Improve Speech Emotion Recognition". The 28th European Signal Processing Conference.
 
-**Changzeng Fu**u, Jiaqi Shi, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro “AAEC:An Adversarial Autoencoder-based Classifier for Audio Emotion Recognition”. Multimodal Sentiment Analysis in Real-life Media Challenge, ACM MultiMedia 2020.
+**Changzeng Fu**, Jiaqi Shi, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro “AAEC:An Adversarial Autoencoder-based Classifier for Audio Emotion Recognition”. Multimodal Sentiment Analysis in Real-life Media Challenge, ACM MultiMedia 2020.
 
 **Changzeng Fu**, Thilina Dissanayake, Kazufumi Hosoda, Takuya Maekawa, and Hiroshi Ishiguro. "Similarity of Speech Emotion in Different Languages Revealed by a Neural Network with Attention." In 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pp. 381-386. IEEE, 2020.
 
