@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "experience.md", title: About Me}
   - {file: "publication.md", title: Publication}
   - {file: "Demo.md", title: Demo}
+  - {file: "mentor.md", title: mentor/恩师}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
