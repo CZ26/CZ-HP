@@ -17,7 +17,7 @@ Video link: [[youtube](https://youtu.be/oREnUIyHi5Y)] [[bilibili](https://www.bi
 Video link: [[youtube](https://youtu.be/nHuJr-Qq4hM)] [[bilibili](https://www.bilibili.com/video/BV1RL4y1T7Ni?pop_share=1)]
 
 
-### An android robot shares experiences with emotional voice to perform mental comforting dialogue.
+### An android robot shares experiences with emotional voices to perform mental comforting dialogue.
 <!-- https://user-images.githubusercontent.com/87885251/158506214-27ca7e6c-d679-435b-984d-cc533f642b6e.mp4 -->
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87885251/158524518-b92eae28-bcb7-4a44-bafb-c0b6aa0ae5a4.png">
 
