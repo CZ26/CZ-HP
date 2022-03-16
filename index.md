@@ -14,7 +14,7 @@ My research interests include human-robot interaction, robot emotional expressio
 
 ------
 
-您好，有缘人，我是傅昌锃，目前是一名[大阪大学智能机器人研究室](https://www.irl.sys.es.osaka-u.ac.jp/)的特任助理教授。
+您好，有缘人，感谢您的来访。我目前是一名[大阪大学智能机器人研究室](https://www.irl.sys.es.osaka-u.ac.jp/)的特任助理教授。
 
 我的研究兴趣包括：人-机器人交互、机器人情感表达、情感计算等。
 
