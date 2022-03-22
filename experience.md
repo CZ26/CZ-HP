@@ -30,4 +30,4 @@ title: ""
 
 **Reviewer** of International Speech Communication Association (ISCA) 
 
-**PC member** of The Tenth IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN)
+**PC member** of IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN)
