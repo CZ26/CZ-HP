@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Educations and Positions"
+title: ""
 ---
 
 
@@ -24,3 +24,10 @@ title: "Educations and Positions"
 2018.10-2019.03 &nbsp;&nbsp; Student Mentor &nbsp;&nbsp; Osaka University, Japan
 
 2018.10-2018.12 &nbsp;&nbsp; Visiting Engineer &nbsp;&nbsp; Toshiba R&D, Japan
+
+
+## Professional Membership
+
+**Reviewer** of International Speech Communication Association (ISCA) 
+
+**PC member** of The Tenth IEEE  International Workshop on Semantic Computing for Social Networks and Organization Sciences (SCSN)
