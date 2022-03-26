@@ -21,6 +21,8 @@ title: ""
 
 2019.10-2021.03 &nbsp;&nbsp; Intern Researcher &nbsp;&nbsp; ATR, Japan
 
+2019.03-2019.09 &nbsp;&nbsp; Researcher &nbsp;&nbsp; Osaka University, Japan
+
 2018.10-2019.03 &nbsp;&nbsp; Student Mentor &nbsp;&nbsp; Osaka University, Japan
 
 2018.10-2018.12 &nbsp;&nbsp; Visiting Engineer &nbsp;&nbsp; Toshiba R&D, Japan
