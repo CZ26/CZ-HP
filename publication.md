@@ -15,7 +15,7 @@ title: "publications"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-based Emotional Speech Conversion Model by Augmenting Receptive Field with Transformer", Speech Communication (under reviewing)
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing (under reviewing)
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing (accepted)
 
 
 
