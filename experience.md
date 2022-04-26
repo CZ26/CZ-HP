@@ -32,6 +32,8 @@ title: ""
 
 **Reviewer** of International Speech Communication Association (ISCA) 
 
+**Reviewer** of MOBILE NETWORKS & APPLICATIONS
+
 **Reviewer** of 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2022)
 
 **Reviewer** of 31st IEEE International Conference on Robot & Human Interactive Communication (ROMAN2022)
