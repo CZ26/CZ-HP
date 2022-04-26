@@ -15,7 +15,7 @@ title: ""
 
 
 ## Positions
-2022.04- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Special Appointed Assistant Professor &nbsp;&nbsp; Osaka University, Japan
+2022.04- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specially Appointed Assistant Professor &nbsp;&nbsp; Osaka University, Japan
 
 2021.03-2022.04 &nbsp;&nbsp; Intern Researcher &nbsp;&nbsp; RIKEN, Japan
 
