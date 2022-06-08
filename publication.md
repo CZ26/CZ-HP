@@ -20,6 +20,7 @@ title: "publications"
 
 
 ## Conferences
+Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers}}." Proc. Speech Prosody 2022 (2022): 550-554.
 
 Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
 
