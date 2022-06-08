@@ -5,7 +5,7 @@ title: "publications"
 
 ## Journals
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing (accepted)
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021
 
