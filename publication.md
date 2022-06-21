@@ -15,8 +15,6 @@ title: "publications"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-based Emotional Speech Conversion Model by Augmenting Receptive Field with Transformer", Speech Communication (under reviewing)
-
 
 
 ## Conferences
