@@ -30,6 +30,8 @@ title: ""
 
 ## Professional Membership
 
+**Reviewer** of Expert Systems with Applications
+
 **Reviewer** of International Speech Communication Association (ISCA) 
 
 **Reviewer** of MOBILE NETWORKS & APPLICATIONS
