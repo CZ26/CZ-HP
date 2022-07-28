@@ -30,6 +30,8 @@ title: ""
 
 ## Professional Membership
 
+**Reviewer** of IEEE Transactions on Audio, Speech and Language Processing
+
 **Reviewer** of Expert Systems with Applications
 
 **Reviewer** of International Speech Communication Association (ISCA) 
