@@ -36,6 +36,8 @@ title: ""
 
 **Reviewer** of International Speech Communication Association (ISCA) 
 
+**Reviewer** of International Journal of Artificial Intelligence
+
 **Reviewer** of MOBILE NETWORKS & APPLICATIONS
 
 **Reviewer** of 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2022)
