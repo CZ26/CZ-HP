@@ -48,7 +48,9 @@ Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on 
 ## Grants
 
 2018-2022 Humanware Innovation Program research support grant (専門分野研究活動支援金) -- Leader
+
 2020-2021 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Member
+
 2021-2022 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Leader
 
 
