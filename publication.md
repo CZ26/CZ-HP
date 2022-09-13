@@ -21,7 +21,12 @@ title: "publications"
 
 
 ## Conferences
-Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers}}." Proc. Speech Prosody 2022 (2022): 550-554.
+
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer.” Proceedings of 2022 APSIPA Annual Summit and Conference， 7-10 November 2022, Chiang Mai, Thailand. (Accepted)
+
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “A Controllable Cross-gender Voice Conversion for Social Robot.” 2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII2022) Workshops and Demos. (Accepted)
+
+Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers." Proc. Speech Prosody 2022 (2022): 550-554.
 
 Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
 
