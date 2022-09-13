@@ -37,6 +37,8 @@ title: ""
 
 **Reviewer** of Expert Systems with Applications
 
+**Reviewer** of PeerJ Computer Science
+
 **Reviewer** of International Speech Communication Association (ISCA) 
 
 **Reviewer** of International Journal of Artificial Intelligence
