@@ -6,17 +6,17 @@ title: "publications"
 ## Journals
 
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-Based Emotional Voice Conversion Model by Augmenting Temporal Dependency with a Transformern", Speech Communication.
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-Based Emotional Voice Conversion Model by Augmenting Temporal Dependency with a Transformern", Speech Communication. (IF 2.723)
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing.
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing. (IF 13.99)
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021 (IF 4.321)
 
-**Changzeng Fu**, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro. "Sharing Experiences to Help a Robot Present Its Mind and Sociability" International Journal of Social Robotics (2020): 1-12.
+**Changzeng Fu**, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro. "Sharing Experiences to Help a Robot Present Its Mind and Sociability" International Journal of Social Robotics (2020): 1-12. (IF 3.802)
 
-**Changzeng Fu**, Qi Deng, Jingcheng Shen, Hamed Mahzoon, and Hiroshi Ishiguro. "A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally." Sensors 22, no. 3 (2022): 991.
+**Changzeng Fu**, Qi Deng, Jingcheng Shen, Hamed Mahzoon, and Hiroshi Ishiguro. "A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally." Sensors 22, no. 3 (2022): 991. (IF 3.847)
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020 (IF 3.847)
 
 
 
