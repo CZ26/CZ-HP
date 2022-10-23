@@ -26,8 +26,6 @@ title: "publications"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “A Controllable Cross-gender Voice Conversion for Social Robot.” 2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII2022) Workshops and Demos. (Best Workshop Paper)
 
-Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers." Proc. Speech Prosody 2022 (2022): 550-554.
-
 Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " MAEC: Multi-instance Learning with and Adversarial Auto-encoder-based Classifier for Speech Emotion Recognition", ICASSP 2021.
@@ -43,6 +41,8 @@ Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-
 **Changzeng Fu**, Chaoran Liu, Carlos Ishi, Yuichiro Yoshikawa, and Hiroshi Ishiguro. "SeMemNN: A Semantic Matrix-Based Memory Neural Network for Text Classification." In 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pp. 123-127. IEEE, 2020.
 
 Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on Training Story Generation Models Based on Event Representations" In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD), IEEE, 2020.
+
+Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers." Proc. Speech Prosody 2022 (2022): 550-554.
 
 
 
