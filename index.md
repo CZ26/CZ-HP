@@ -23,7 +23,7 @@ My research interests include social robotics, human-robot interaction, robot em
 
 ------
 
-こんにちは、フ　ショウゼン と申します。今は東北大学に講師として勤めています
+こんにちは、フ　ショウゼン と申します。今は東北大学に講師として勤めています。
 前は、[大阪大学知能ロボティクス研究室](https://www.irl.sys.es.osaka-u.ac.jp/)に特任助教となりました。
 
 研究キーワード：ソーシャルロボット、人間とロボットのインタラクション、ロボットの感情表現、アフェクティブコンピューティング、および関連分野。
