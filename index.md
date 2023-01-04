@@ -15,7 +15,7 @@ My research interests include social robotics, human-robot interaction, robot em
 
 ------
 
-您好，感谢您的来访。我目前是东北大学，悉尼智能科技学院，的一名讲师。
+您好，感谢您的来访。我目前是东北大学悉尼智能科技学院的一名讲师。
 曾在[大阪大学智能机器人研究室](https://www.irl.sys.es.osaka-u.ac.jp/)担任特任助理教授。
 
 我的研究兴趣包括：社交机器人、人-机器人交互、机器人情感表达、情感计算等。
