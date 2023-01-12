@@ -22,7 +22,7 @@ title: "publications"
 
 ## Conferences
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer.” Proceedings of 2022 APSIPA Annual Summit and Conference， 7-10 November 2022, Chiang Mai, Thailand. (Accepted)
+**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer.” Proceedings of 2022 APSIPA Annual Summit and Conference， 7-10 November 2022, Chiang Mai, Thailand. 
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “A Controllable Cross-gender Voice Conversion for Social Robot.” 2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII2022) Workshops and Demos. (Best Workshop Paper)
 
