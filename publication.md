@@ -44,7 +44,7 @@ Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on 
 
 Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers." Proc. Speech Prosody 2022 (2022): 550-554.
 
-
+Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, Hiroshi Ishiguro, Tatsuya Kawahara, and Catherine Lai. "I Know Your Feelings Before You Do: Predicting Future Affective Reactions in Human-Computer Dialogue." In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-7. 2023. (EI)
 
 ## Miscellaneous
 
