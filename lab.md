@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![HACI](https://user-images.githubusercontent.com/87885251/236448883-37f2ae7b-337f-476e-8fdc-0d4d4ea3eba6.png)、
+![HACI](https://user-images.githubusercontent.com/87885251/236448883-37f2ae7b-337f-476e-8fdc-0d4d4ea3eba6.png)
 ---
 
 ## 写在前面：
