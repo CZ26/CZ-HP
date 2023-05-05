@@ -46,7 +46,7 @@ Imagine a scenario of a future society where human-machine symbiosis is prevalen
 Please specify the technologies required to realize the scenario you proposed.
 
 ----
-如果你完成到了这里，那你大概率是和我们有一致兴趣的人。请你讲prework2和3总结为500字短文，并上交给我。我会分享给你学习资料，开始你的科研活动！
+如果你完成到了这里，那你大概率是和我们有一致兴趣的人。请你将prework2和3总结为500字短文，并上交给我。我会分享给你学习资料，开始你的科研活动！
 
 If you have reached here, then you are most likely someone who shares our interests. Please summarize Prework 2 and 3 into a 500-word essay and submit it to me. I will share with you the relevant learning materials and start the research activity!
 
