@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![HACI](https://user-images.githubusercontent.com/87885251/236409079-0714efde-66f6-4836-8f5d-67999835c5d9.png)
+![HACI](https://user-images.githubusercontent.com/87885251/236448883-37f2ae7b-337f-476e-8fdc-0d4d4ea3eba6.png)、
 ---
 
 ## 写在前面：
@@ -24,9 +24,7 @@ In particular, we focuses on the use of deep learning models to assess multi-mod
 
 ## The Gole
 
-The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. 
-
-As for the gole, we are going to:
+The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. As for the gole, we are going to:
 
 ### Improved Human-Computer Interaction: 
 Affective computing can improve the interaction between humans and machines by making the experience more natural and intuitive. Emotionally intelligent machines can detect and respond to a user's emotional state, making the interaction more personalized and engaging.
