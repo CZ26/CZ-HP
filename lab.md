@@ -19,7 +19,7 @@ We will do our best to create a harmonious, supportive, and exciting learning an
 
 We mainly focus on emotion+ research topics through the utilization of deep learning methods. Our research architecture is depicted in the figure above.
 
-Different from traditional research methods, we combine **cognitive science**, **psychology**, and **robotics** and **artificial intelligence** related technologies to explore from theoretical level to practical application level. 
+Different from traditional research methods, we combine **cognitive science**, **psychology**, **robotics** and **artificial intelligence** related technologies to explore from theoretical level to practical application level. 
 In particular, we focuses on the use of deep learning models to assess multi-modal data, such as speech information, visual information, text information, for the purpose of analyzing human emotions, comprehending behavior, and generating affective expression. Additionally, by taking psychology and cognitive science into account, we also attempt to optimize the interaction strategy. 
 
 
@@ -53,6 +53,6 @@ If you have reached here, then you are most likely someone who shares our intere
 
 
 ## 写在最后：
-探索的过程都是充满困难的，请给位伙伴们保持主动，迎难而上，享受突破困难的那一瞬间，肾上腺素给你带来的兴奋和喜悦感！
+探索的过程都是充满困难的，请各位伙伴们保持主动，迎难而上，享受突破困难的那一瞬间，肾上腺素给你带来的兴奋和喜悦感！
 
 The process of exploration is always full of difficulties. We encourage our colleagues to be proactive, face challenges, and enjoy the moment when they overcome difficulties. The excitement and joy that adrenaline brings will be an amazing experience.
