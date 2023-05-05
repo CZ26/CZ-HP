@@ -61,6 +61,14 @@ Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, 
 
 2021-2022 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Leader
 
+## Patents
+
+**Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于图注意力机制的多模态情感分析模型, 2022-7-26, 日本, JP.2022072619.A
+
+**Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于对抗编码器的情感数据增强训练方法集分类器, 2022-5-30, 日本, JP.202280435.A
+
+**Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于隐层表征隔离高斯化的情感分类器,2022-10-6, 日本, JP.2022147397.A
+
 
 ## Awards
 
