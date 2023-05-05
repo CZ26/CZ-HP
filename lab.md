@@ -34,8 +34,6 @@ Affective computing can help healthcare professionals to monitor the emotional s
 
 
 ## Preworks to Whom Wants to Join HACI
-首先感谢你对HACI小组的关注。我们欢迎计算机、电子、心理学、教育学等不同领域的本科生、硕士、博士合作伙伴。
-First of all, thank you for your interest in the HACI team. We welcome undergraduate, master, and PhD collaborators from different fields such as computer science, electronics, psychology, and education.
 
 ### Prework 1:
 Go through my publication list and choose some paper to read that interests you.
