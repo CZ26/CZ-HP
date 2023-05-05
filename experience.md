@@ -16,9 +16,13 @@ title: ""
 
 ## Positions
 
+2022.12- &nbsp;&nbsp;&nbsp; Lecturer &nbsp;&nbsp; SSTC, Northeastern University, China
+
+2022.12- &nbsp;&nbsp;&nbsp; Guest Faculty &nbsp;&nbsp; Osaka University, Japan
+
 2022.04- &nbsp;&nbsp;&nbsp; Guest Researcher &nbsp;&nbsp; RIKEN, Japan
 
-2022.04- &nbsp;&nbsp;&nbsp; Specially Appointed Assistant Professor &nbsp;&nbsp; Osaka University, Japan
+2022.04-2022.11 &nbsp;&nbsp;&nbsp; Specially Appointed Assistant Professor &nbsp;&nbsp; Osaka University, Japan
 
 2021.03-2022.04 &nbsp;&nbsp; Intern Researcher &nbsp;&nbsp; RIKEN, Japan
 
