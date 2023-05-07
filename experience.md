@@ -41,6 +41,8 @@ title: ""
 
 **Reviewer** of Expert Systems with Applications
 
+**Reviewer** of Scientific Reports
+
 **Reviewer** of PeerJ Computer Science
 
 **Reviewer** of International Speech Communication Association (ISCA) 
