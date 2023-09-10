@@ -94,7 +94,7 @@ The process of exploration is always full of difficulties. We encourage our coll
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/10027025-9434-4a86-af29-5b8d9ef1e466" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1e18436f-c60e-43b1-b268-73ddfc8c35de" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU & UTS</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
   </tr>
   <tr>
