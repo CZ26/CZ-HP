@@ -108,15 +108,15 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3cef98b6-bf28-4a89-b478-db5a467d914f" width="150" height="150" /> <br/> <em>Chaoran Liu<br/>@ RIKEN</em> </td>
     </tr> 
     <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/db993969-7a63-4504-b543-5e17eca1ed8d" width="150" height="150" /> <br/> <em><a href="https://scholar.google.co.uk/citations?user=ZKSL1IcAAAAJ&hl=en">Siyang Song<br/>@ University of Leicester</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/b3c8e5aa-9f13-498a-b5e2-55a8604f9f37" width="150" height="150" /> <br/> <em><a href="http://graduate.neuq.edu.cn/info/1397/3366.htm">Yuliang Zhao<br/>@ Northeastern University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/db993969-7a63-4504-b543-5e17eca1ed8d" width="150" height="150" /> <br/> <a href="https://scholar.google.co.uk/citations?user=ZKSL1IcAAAAJ&hl=en"><em>Siyang Song<br/>@ University of Leicester</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/b3c8e5aa-9f13-498a-b5e2-55a8604f9f37" width="150" height="150" /> <br/> a href="http://graduate.neuq.edu.cn/info/1397/3366.htm"><em><Yuliang Zhao<br/>@ Northeastern University</em> </td>
    </tr> 
 </table>
       
 <table>
   <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <em><a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4e0051c8-84eb-4393-a9a3-8cc18c797eda" width="500" height="150" /> <br/> <em><a href="https://grp.riken.jp/">GRP<br/>@RIKEN</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/"><em>IRL<br/>@Osaka University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4e0051c8-84eb-4393-a9a3-8cc18c797eda" width="500" height="150" /> <br/> a href="https://grp.riken.jp/"><em><GRP<br/>@RIKEN</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
    </tr> 
 </table>
