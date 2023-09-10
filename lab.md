@@ -74,9 +74,10 @@ The process of exploration is always full of difficulties. We encourage our coll
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/538e86b6-c28a-4ef4-99f8-3b74a05236ba" width="150" height="150" /> <br/> <em>Yan Fu<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4fc04bf3-151a-45c1-bd92-9eebddd8a1ee" width="150" height="150" /> <br/> <em>Xiaoai Wang<br/>@ Northeastern University</em> </td>
+     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/187c5a95-e77e-4ca1-9792-639a02442ed6" width="150" height="150" /> <br/> <em>Yinghao Liu<br/>@ Northeastern University</em> </td>
   </tr> 
   <tr>  
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/187c5a95-e77e-4ca1-9792-639a02442ed6" width="150" height="150" /> <br/> <em>Yinghao Liu<br/>@ Northeastern University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3043b38b-7135-465d-bc30-9a876cfeea55" width="150" height="150" /> <br/> <em>Huawei Zhang<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/0d0f7c1a-f72b-4ba3-a823-8f6bd9cbeefb" width="150" height="150" /> <br/> <em>Yikai Su<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/d16bf85b-ccbe-4aaa-b2f4-57033c335db0" width="150" height="150" /> <br/> <em>Kaifeng Su<br/>@ Northeastern University</em> </td>
   </tr> 
@@ -86,7 +87,7 @@ The process of exploration is always full of difficulties. We encourage our coll
 
 <table>
   <tr>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Huizu Lin<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/cf60a1a5-c1ca-4f9b-864f-88bd2aa5932f" width="150" height="150" /> <br/> <em>Huizu Lin<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ec6c8fef-9d33-480d-97d0-e58cc3c5a63a" width="150" height="150" /> <br/> <em>Yaohang Li<br/>@ SSTC-NEU & UTS</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/9f0040f4-b707-4e09-bbbe-b47586edd999" width="150" height="150" /> <br/> <em>Zihan Li<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1361793a-eb43-46cb-ab98-47991ce4179e" width="150" height="150" /> <br/> <em>Yibo Peng<br/>@ SSTC-NEU</em> </td>
@@ -94,8 +95,8 @@ The process of exploration is always full of difficulties. We encourage our coll
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/10027025-9434-4a86-af29-5b8d9ef1e466" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1e18436f-c60e-43b1-b268-73ddfc8c35de" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/27f19a38-7efe-46ca-a0ab-0f6a1627bc52" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/6338bb29-480e-4177-b7db-8fa778872c76" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
   </tr>
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/71bc8378-5793-4455-8d09-52d8971839e8" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td>
