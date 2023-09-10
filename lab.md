@@ -91,7 +91,7 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
   </tr> 
   <tr>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/e959623b-075f-4ebd-aab0-39037b26c30d" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU & UTS</em> </td>
     <td> <img src="" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td>
@@ -115,8 +115,8 @@ The process of exploration is always full of difficulties. We encourage our coll
       
 <table>
   <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/"> <em>IRL<br/>@Osaka University</em> </br></br></td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4e0051c8-84eb-4393-a9a3-8cc18c797eda" width="500" height="150" /> <br/> <a href="https://grp.riken.jp/"> <em>GRP<br/>@RIKEN</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <em>IRL<br/>@Osaka University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4e0051c8-84eb-4393-a9a3-8cc18c797eda" width="500" height="150" /> <br/> <em>GRP<br/>@RIKEN</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
    </tr> 
 </table>
