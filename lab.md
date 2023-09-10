@@ -56,3 +56,66 @@ If you have reached here, then you are most likely someone who shares our intere
 探索的过程都是充满困难的，请各位伙伴们保持主动，迎难而上，享受突破困难的那一瞬间，肾上腺素给你带来的兴奋和喜悦感！
 
 The process of exploration is always full of difficulties. We encourage our colleagues to be proactive, face challenges, and enjoy the moment when they overcome difficulties. The excitement and joy that adrenaline brings will be an amazing experience.
+
+---
+
+# People
+### PhD student
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/8ad239c7-322c-4e1a-b2b1-00869d692289" width="150" height="150" /> <br/> <em>Shihab Baten Md<br/>@ Osaka University</em> </td>
+      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/0d740b33-f98e-49ea-a9e0-0ea002bf895f" width="150" height="150" /> <br/> <em>Ayush Gupta<br/>@ Osaka University</em> </td>
+    </tr> 
+</table>
+
+### Master student
+<table>
+  <tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/538e86b6-c28a-4ef4-99f8-3b74a05236ba" width="150" height="150" /> <br/> <em>Yan Fu<br/>@ Northeastern University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4fc04bf3-151a-45c1-bd92-9eebddd8a1ee" width="150" height="150" /> <br/> <em>Xiaoai Wang<br/>@ Northeastern University</em> </td>
+      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/187c5a95-e77e-4ca1-9792-639a02442ed6" width="150" height="150" /> <br/> <em>Yinghao Liu<br/>@ Northeastern University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/0d0f7c1a-f72b-4ba3-a823-8f6bd9cbeefb" width="150" height="150" /> <br/> <em>Yikai Su<br/>@ Northeastern University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/d16bf85b-ccbe-4aaa-b2f4-57033c335db0" width="150" height="150" /> <br/> <em>Kaifeng Su<br/>@ Northeastern University</em> </td>
+    </tr> 
+</table>
+
+### Undergraduate student
+
+<table>
+  <tr>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Huizu Lin<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Yaohang Li<br/>@ SSTC-NEU & UTS</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Zihan Li<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1361793a-eb43-46cb-ab98-47991ce4179e" width="150" height="150" /> <br/> <em>Yibo Peng<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
+  </tr> 
+  <tr>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Songyang Wang<br/>@ SSTC-NEU & UTS</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td>
+  </tr> 
+</table>
+
+### Research Partner
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4339e460-749d-4014-b423-1f9567ad334c" width="150" /> <br/> <em>Hiroshi Ishiguro<br/>@ Osaka University</em> </td>
+      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/f72fb6ad-4cdd-4a03-b3c1-09eea1448d41" width="150" height="150" /> <br/> <em>Yuichiro Yoshikawa<br/>@ Osaka University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3f282790-93bc-4033-8455-6430393f7490" width="150" /> <br/> <em><a href="https://dil.atr.jp/~carlos/">Carlos Toshinori Ishi<br/>@ RIKEN</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3cef98b6-bf28-4a89-b478-db5a467d914f" width="150" height="150" /> <br/> <em>Chaoran Liu<br/>@ RIKEN</em> </td>
+    </tr> 
+    <tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/db993969-7a63-4504-b543-5e17eca1ed8d" width="150" height="150" /> <br/> <em><a href="https://scholar.google.co.uk/citations?user=ZKSL1IcAAAAJ&hl=en">Siyang Song<br/>@ University of Leicester</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/b3c8e5aa-9f13-498a-b5e2-55a8604f9f37" width="150" height="150" /> <br/> <em><a href="http://graduate.neuq.edu.cn/info/1397/3366.htm">Yuliang Zhao<br/>@ Northeastern University</em> </td>
+   </tr> 
+</table>
+<table>
+  <tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <em><a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4e0051c8-84eb-4393-a9a3-8cc18c797eda" width="500" height="150" /> <br/> <em><a href="https://grp.riken.jp/">GRP<br/>@RIKEN</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
+   </tr> 
+</table>
