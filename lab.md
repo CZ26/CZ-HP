@@ -121,6 +121,6 @@ The process of exploration is always full of difficulties. We encourage our coll
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</a> </td>
      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/91a64529-ee83-435f-ab24-fc2979ffd8cf" width="400" height="150" /> <br/> <a href="https://grp.riken.jp/">GRP<br/>@RIKEN</a> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" height="150" /> <br/> <em>Add Lab<br/></em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
    </tr> 
 </table>
