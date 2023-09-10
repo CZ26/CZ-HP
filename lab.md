@@ -88,7 +88,7 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ec6c8fef-9d33-480d-97d0-e58cc3c5a63a" width="150" height="150" /> <br/> <em>Yaohang Li<br/>@ SSTC-NEU & UTS</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/9f0040f4-b707-4e09-bbbe-b47586edd999" width="150" height="150" /> <br/> <em>Zihan Li<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1361793a-eb43-46cb-ab98-47991ce4179e" width="150" height="150" /> <br/> <em>Yibo Peng<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/10027025-9434-4a86-af29-5b8d9ef1e466" width="150" height="150" /> <br/> <em>Xiniang Wang<br/>@ SSTC-NEU</em> </td>
   </tr> 
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/1e18436f-c60e-43b1-b268-73ddfc8c35de" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
@@ -112,11 +112,11 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/b3c8e5aa-9f13-498a-b5e2-55a8604f9f37" width="150" height="150" /> <br/> <em>Asoc.Prof. <br/>Yuliang Zhao<br/>@ Northeastern University</em> </td>
   </tr> 
 </table>
-      
+   
 <table>
   <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</a> </td>
-     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://grp.riken.jp/">GRP<br/>@RIKEN</a> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</a> </td>
+     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/91a64529-ee83-435f-ab24-fc2979ffd8cf" height="150" /> <br/> <a href="https://grp.riken.jp/">GRP<br/>@RIKEN</a> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" height="150" /> <br/> <em>Add Lab<br/></em> </td>
    </tr> 
 </table>
