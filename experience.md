@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-
+<img src="https://github.com/CZ26/CZ-HP/assets/87885251/7e2fe267-aaf1-48ea-9eed-1eacc490534b" width="200" />
 
 ## Educations
 2019.10-2022.03 &nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Osaka University, Japan (Prof. Hiroshi Ishiguro is my supervisor.) 
