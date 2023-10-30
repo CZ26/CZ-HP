@@ -27,10 +27,10 @@ In particular, we focuses on the use of deep learning models to assess multi-mod
 
 The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. As for the gole, we are going to:
 
-### Improved Human-Computer Interaction: 
+### Improve Human-Computer Interaction: 
 Affective computing can improve the interaction between humans and machines by making the experience more natural and intuitive. Emotionally intelligent machines can detect and respond to a user's emotional state, making the interaction more personalized and engaging.
 
-### Enhanced Mental Health: 
+### Enhance Mental Health: 
 Affective computing can help healthcare professionals to monitor the emotional state of patients and develop personalized treatment plans. It can also help individuals with mental health disorders to manage their condition by providing real-time feedback and support.
 
 
