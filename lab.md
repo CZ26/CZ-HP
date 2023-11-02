@@ -71,11 +71,11 @@ The process of exploration is always full of difficulties. We encourage our coll
 
 ### Master student
 <table>
-  <tr>
+<!--   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/538e86b6-c28a-4ef4-99f8-3b74a05236ba" width="150" height="150" /> <br/> <em>Yan Fu<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4fc04bf3-151a-45c1-bd92-9eebddd8a1ee" width="150" height="150" /> <br/> <em>Xiaoai Wang<br/>@ Northeastern University</em> </td>
      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/187c5a95-e77e-4ca1-9792-639a02442ed6" width="150" height="150" /> <br/> <em>Yinghao Liu<br/>@ Northeastern University</em> </td>
-  </tr> 
+  </tr>  -->
   <tr>  
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3043b38b-7135-465d-bc30-9a876cfeea55" width="150" height="150" /> <br/> <em>Huawei Zhang<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/0d0f7c1a-f72b-4ba3-a823-8f6bd9cbeefb" width="150" height="150" /> <br/> <em>Yikai Su<br/>@ Northeastern University</em> </td>
@@ -99,8 +99,11 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/6338bb29-480e-4177-b7db-8fa778872c76" width="150" height="150" /> <br/> <em>Ruiding Huang<br/>@ SSTC-NEU</em> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/71bc8378-5793-4455-8d09-52d8971839e8" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td>
-  </tr> 
+<!--     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/71bc8378-5793-4455-8d09-52d8971839e8" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td> -->
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ec3d7f73-2446-4554-b9ed-b86315ba6cf7" width="150" height="150" /> <br/> <em>Ziqing Liu<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/2f67e3df-d166-4c21-a98c-8fc619c0cc65" width="150" height="150" /> <br/> <em>Yuxuan Zhang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/5bc2d6f4-22df-4653-96aa-54777f975f02" width="150" height="150" /> <br/> <em>Jingyi Wu<br/>@ SSTC-NEU</em> </td>
+</tr> 
 </table>
 
 ### Research Partner
