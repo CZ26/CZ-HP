@@ -103,7 +103,7 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ec3d7f73-2446-4554-b9ed-b86315ba6cf7" width="150" height="150" /> <br/> <em>Ziqing Liu<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/2f67e3df-d166-4c21-a98c-8fc619c0cc65" width="150" height="150" /> <br/> <em>Yuxuan Zhang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/5bc2d6f4-22df-4653-96aa-54777f975f02" width="150" height="150" /> <br/> <em>Jingyi Wu<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/a3b0b90e-1034-46b2-8ad0-79e2750c7757" width="150" height="150" /> <br/> <em>Chang Yu<br/></em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/a3b0b90e-1034-46b2-8ad0-79e2750c7757" width="150" height="150" /> <br/> <em>Chang Yu<br/>@ SSTC-NEU</em> </td>
 </tr> 
 </table>
 
