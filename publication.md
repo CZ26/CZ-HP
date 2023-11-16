@@ -22,6 +22,8 @@ title: "publications"
 
 ## Conferences
 
+**Fu, C.**, Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). HAG: Hierarchical Attention with Graph Network for Dialogue Act Classification in Conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+
 Chen, Z., **Fu, C.**, Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). LGFat-RGCN: Faster Attention with Heterogeneous RGCN for Medical ICD Coding Generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer.” Proceedings of 2022 APSIPA Annual Summit and Conference， 7-10 November 2022, Chiang Mai, Thailand. 
