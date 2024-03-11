@@ -100,11 +100,15 @@ The process of exploration is always full of difficulties. We encourage our coll
   </tr>
   <tr>
 <!--     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/71bc8378-5793-4455-8d09-52d8971839e8" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td> -->
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ec3d7f73-2446-4554-b9ed-b86315ba6cf7" width="150" height="150" /> <br/> <em>Ziqing Liu<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/2f67e3df-d166-4c21-a98c-8fc619c0cc65" width="150" height="150" /> <br/> <em>Yuxuan Zhang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/5bc2d6f4-22df-4653-96aa-54777f975f02" width="150" height="150" /> <br/> <em>Jingyi Wu<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/a3b0b90e-1034-46b2-8ad0-79e2750c7757" width="150" height="150" /> <br/> <em>Chang Yu<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/c00d9888-eeca-4aad-b5e0-2eeb3b65e757" width="150" height="150" /> <br/> <em>Qi Zhang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/2f67e3df-d166-4c21-a98c-8fc619c0cc65" width="150" height="150" /> <br/> <em>Yuxuan Zhang<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3b045d80-468e-445f-9e2b-8de52e97c51f" width="150" height="150" /> <br/> <em>Ziheng Li<br/>@ SSTC-NEU</em> </td>   
 </tr> 
+<tr>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ffd53257-2104-4ced-a6bb-939700c31506" width="150" height="150" /> <br/> <em>Jiacheng Li<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/cb53bf5a-7e4e-414f-9077-3d9784176d2b" width="150" height="150" /> <br/> <em>Yiming Yang<br/>@ SSTC-NEU</em> </td>
+</tr>
 </table>
 
 ### Research Partner
@@ -113,6 +117,6 @@ The process of exploration is always full of difficulties. We encourage our coll
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</a> </td>
      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/91a64529-ee83-435f-ab24-fc2979ffd8cf" width="400" height="150" /> <br/> <a href="https://grp.riken.jp/">GRP<br/>@RIKEN</a> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td>
+<!--     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3c307cb4-f0b2-4402-aa35-967d7580abc8" width="150" height="150" /> <br/> <em>Add Lab<br/></em> </td> -->
    </tr> 
 </table>
