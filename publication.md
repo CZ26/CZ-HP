@@ -18,6 +18,11 @@ title: "publications"
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020 (IF 3.847)
 
+**Changzeng Fu** et al. Intelligent IoT Anklets for Monitoring the Assessment of Parkinson’s Diseases. IEEE Sensors Journal (IF 4.3)
+
+**Changzeng Fu** et al. MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices. Remote Sensing 15 (24), 5665 (IF 5)
+
+**Changzeng Fu** et al. Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications 243, 122837 (IF 8.5)
 
 
 ## Conferences
@@ -65,6 +70,9 @@ Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, 
 
 2021-2022 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Leader
 
+2024-2027  National Natural Science Foundation of China, Cognitive Theory-based Human-robot Emotion P{erception and Intervention
+
+
 ## Patents
 
 **Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于图注意力机制的多模态情感分析模型, 2022-7-26, 日本, JP.2022072619.A
@@ -72,6 +80,10 @@ Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, 
 **Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于对抗编码器的情感数据增强训练方法集分类器, 2022-5-30, 日本, JP.202280435.A
 
 **Changzeng Fu**; Chaoran Liu; Carlos Toshinori Ishi ; 基于隐层表征隔离高斯化的情感分类器,2022-10-6, 日本, JP.2022147397.A
+
+**Changzeng Fu**;  一种基于多层级图注意力机制的对话行为识别方法, 中国，202310604666.7
+
+**Changzeng Fu**;  具备情感交互能力的社交机器人及系统, 中国, 2002310755637.0
 
 
 ## Awards
