@@ -75,9 +75,9 @@ The process of exploration is always full of difficulties. We encourage our coll
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/538e86b6-c28a-4ef4-99f8-3b74a05236ba" width="150" height="150" /> <br/> <em>Yan Fu<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/4fc04bf3-151a-45c1-bd92-9eebddd8a1ee" width="150" height="150" /> <br/> <em>Xiaoai Wang<br/>@ Northeastern University</em> </td>
      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/187c5a95-e77e-4ca1-9792-639a02442ed6" width="150" height="150" /> <br/> <em>Yinghao Liu<br/>@ Northeastern University</em> </td>
+      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3043b38b-7135-465d-bc30-9a876cfeea55" width="150" height="150" /> <br/> <em>Huawei Zhang<br/>@ Northeastern University</em> </td>
   </tr>  -->
   <tr>  
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/3043b38b-7135-465d-bc30-9a876cfeea55" width="150" height="150" /> <br/> <em>Huawei Zhang<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/0d0f7c1a-f72b-4ba3-a823-8f6bd9cbeefb" width="150" height="150" /> <br/> <em>Yikai Su<br/>@ Northeastern University</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/d16bf85b-ccbe-4aaa-b2f4-57033c335db0" width="150" height="150" /> <br/> <em>Kaifeng Su<br/>@ Northeastern University</em> </td>
      <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/655494b1-ebae-4236-a1b6-d07bfb396a44" width="150" height="150" /> <br/> <em>Fengkui Qian<br/>@ Northeastern University</em> </td>
