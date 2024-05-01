@@ -102,13 +102,13 @@ The process of exploration is always full of difficulties. We encourage our coll
   </tr>
   <tr>
 <!--     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/71bc8378-5793-4455-8d09-52d8971839e8" width="150" height="150" /> <br/> <em>Yunzhao Fu<br/>@ SSTC-NEU</em> </td> -->
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/5bc2d6f4-22df-4653-96aa-54777f975f02" width="150" height="150" /> <br/> <em>Jingyi Wu<br/>@ SSTC-NEU</em> </td>
+<!--     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/5bc2d6f4-22df-4653-96aa-54777f975f02" width="150" height="150" /> <br/> <em>Jingyi Wu<br/>@ SSTC-NEU</em> </td> -->
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/c00d9888-eeca-4aad-b5e0-2eeb3b65e757" width="150" height="150" /> <br/> <em>Qi Zhang<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/2f67e3df-d166-4c21-a98c-8fc619c0cc65" width="150" height="150" /> <br/> <em>Yixuan Zhang<br/>@ SSTC-NEU</em> </td>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/f4e2e05e-30e6-402c-91b3-4e762c24defc" width="150" height="150" /> <br/> <em>Ziheng Li<br/>@ SSTC-NEU</em> </td>   
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/f4e2e05e-30e6-402c-91b3-4e762c24defc" width="150" height="150" /> <br/> <em>Ziheng Li<br/>@ SSTC-NEU</em> </td>
+    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ffd53257-2104-4ced-a6bb-939700c31506" width="150" height="150" /> <br/> <em>Jiacheng Dong<br/>@ SSTC-NEU</em> </td>
 </tr> 
 <tr>
-    <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/ffd53257-2104-4ced-a6bb-939700c31506" width="150" height="150" /> <br/> <em>Jiacheng Dong<br/>@ SSTC-NEU</em> </td>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/cb53bf5a-7e4e-414f-9077-3d9784176d2b" width="150" height="150" /> <br/> <em>Zelin Fu<br/>@ SSTC-NEU</em> </td>
 </tr>
 </table>
