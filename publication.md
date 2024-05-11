@@ -24,6 +24,8 @@ title: "publications"
 
 **Changzeng Fu** et al. Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications 243, 122837 (IF 8.5)
 
+Song, S., Luo, Y., Tumer, T., **Changzegn Fu**, Valstar, M., & Gunes, H. (2024). Loss relaxation strategy for noisy facial video-based automatic depression recognition. ACM Transactions on Computing for Healthcare, 5(2), 1-24.
+
 
 ## Conferences
 
