@@ -23,7 +23,7 @@ Different from traditional research methods, we combine **cognitive science**, *
 In particular, we focuses on the use of deep learning models to assess multi-modal data, such as speech information, visual information, text information, for the purpose of analyzing human emotions, comprehending behavior, and generating affective expression. Additionally, by taking psychology and cognitive science into account, we also attempt to optimize the interaction strategy. 
 
 
-## The Gole
+## The Goal
 
 The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. As for the gole, we are going to:
 
