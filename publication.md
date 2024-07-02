@@ -5,6 +5,19 @@ title: "publications"
 
 ## Journals
 
+**Changzeng Fu** et al. PointTransform Networks for automatic depression level prediction via facial keypoints, Knowledge-Based Systems 297, 111951  (IF 7.2)
+
+**Changzeng Fu** et al. Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients, IEEE Transactions on Affective Computing  (IF 9.6)
+
+**Changzeng Fu**, M Alexis, Y Yoshikawa, H Ishiguro, Enhancing the Mobile Humanoid Robot’s Emotional Expression with Affective Vertical-Oscillations, International Journal of Social Robotics, 1-18  (IF 3.8)
+
+**Changzeng Fu** et al. Intelligent IoT Anklets for Monitoring the Assessment of Parkinson’s Diseases. IEEE Sensors Journal (IF 4.3)
+
+**Changzeng Fu** et al. MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices. Remote Sensing 15 (24), 5665 (IF 5)
+
+**Changzeng Fu** et al. Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications 243, 122837 (IF 8.5)
+
+Song, S., Luo, Y., Tumer, T., **Changzegn Fu**, Valstar, M., & Gunes, H. (2024). Loss relaxation strategy for noisy facial video-based automatic depression recognition. ACM Transactions on Computing for Healthcare, 5(2), 1-24.
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-Based Emotional Voice Conversion Model by Augmenting Temporal Dependency with a Transformer", Speech Communication. (IF 2.723)
 
@@ -17,14 +30,6 @@ title: "publications"
 **Changzeng Fu**, Qi Deng, Jingcheng Shen, Hamed Mahzoon, and Hiroshi Ishiguro. "A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally." Sensors 22, no. 3 (2022): 991. (IF 3.847)
 
 **Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020 (IF 3.847)
-
-**Changzeng Fu** et al. Intelligent IoT Anklets for Monitoring the Assessment of Parkinson’s Diseases. IEEE Sensors Journal (IF 4.3)
-
-**Changzeng Fu** et al. MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices. Remote Sensing 15 (24), 5665 (IF 5)
-
-**Changzeng Fu** et al. Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications 243, 122837 (IF 8.5)
-
-Song, S., Luo, Y., Tumer, T., **Changzegn Fu**, Valstar, M., & Gunes, H. (2024). Loss relaxation strategy for noisy facial video-based automatic depression recognition. ACM Transactions on Computing for Healthcare, 5(2), 1-24.
 
 
 ## Conferences
