@@ -24,7 +24,7 @@ In particular, we focuses on the use of deep learning models to assess multi-mod
 
 ## The Goal
 
-The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. As for the gole, we are going to:
+The human-agent symbiotic society is coming! We can expect to see more emotionally intelligent agents that can interact with humans in a more natural and empathetic way. These agents will be able to interpret and respond to human emotions, making them more useful in a variety of contexts, such as healthcare, education, and rapport building. As for the goal, we are going to:
 
 ### Improve Human-Computer Interaction: 
 Affective computing can improve the interaction between humans and machines by making the experience more natural and intuitive. Emotionally intelligent machines can detect and respond to a user's emotional state, making the interaction more personalized and engaging.
@@ -33,10 +33,10 @@ Affective computing can improve the interaction between humans and machines by m
 Affective computing can help healthcare professionals to monitor the emotional state of patients and develop personalized treatment plans. It can also help individuals with mental health disorders to manage their condition by providing real-time feedback and support.
 
 
-## Preworks to Whom Wants to Join HACI
+## Preworks to Whom Want to Join HACI
 
 ### Prework 1:
-Go through my publication list and choose some paper to read that interests you.
+Go through my publication list and choose some papers to read that interest you.
 Please conduct a survey on the topics of affective computing, human-robot interaction (or human-agent interaction), and cognitive science, so as to have some basic knowledge.
 
 ### Prework 2:
@@ -130,7 +130,6 @@ The process of exploration is always full of difficulties. We encourage our coll
 </table>
 
 ### Research Partner
-   
 <table>
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/bfa7790d-5e71-4748-a406-1386bee9d04e" width="300" height="150" /> <br/> <a href="https://www.irl.sys.es.osaka-u.ac.jp/">IRL<br/>@Osaka University</a> </td>
