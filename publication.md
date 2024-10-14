@@ -71,13 +71,15 @@ Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, 
 
 ## Grants
 
+2024-   National Natural Science Foundation of China (Grant No. 62306068) -- Leader
+
+2024-   Natural Science Foundation of Hebei Province, China (Grant No. F2024501002) -- Leader
+
 2018-2022 Humanware Innovation Program research support grant (専門分野研究活動支援金) -- Leader
 
 2020-2021 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Member
 
 2021-2022 Humanware Innovation Program interdisciplinary research support grant（融合分野研究活動支援金）-- Leader
-
-2024-2027  National Natural Science Foundation of China, Cognitive Theory-based Human-robot Emotion P{erception and Intervention
 
 
 ## Patents
