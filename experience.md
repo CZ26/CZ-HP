@@ -16,8 +16,6 @@ title: ""
 
 ## Positions
 
-2022.12- &nbsp;&nbsp;&nbsp; Guest Researcher &nbsp;&nbsp; Beijing Foreign Studies University, China
-
 2022.12- &nbsp;&nbsp;&nbsp; Lecturer &nbsp;&nbsp; SSTC, Northeastern University, China
 
 2022.12- &nbsp;&nbsp;&nbsp; Guest Faculty &nbsp;&nbsp; Osaka University, Japan
