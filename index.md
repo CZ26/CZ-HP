@@ -12,6 +12,7 @@ Before, I was a specially appointed assistant professor in the [Intelligent Robo
 
 My research interests include social robotics, human-robot interaction, robot emotional expression, affective computing, and some related fields.
 
+Courses: Deep Learning (undergraduate and postgraduate); System Testing and Quality Management (undergraduate); Information System Development and Management (Undergraduate)
 
 ------
 
@@ -20,6 +21,7 @@ My research interests include social robotics, human-robot interaction, robot em
 
 我的研究兴趣包括：社交机器人、人-机器人交互、机器人情感表达、情感计算等。
 
+课程：《深度学习》（本科生、研究生）；《系统测试与质量管理》（本科生）；《智能信息系统开发》（本科生）
 
 ------
 
