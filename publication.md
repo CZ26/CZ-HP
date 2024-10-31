@@ -5,6 +5,10 @@ title: "publications"
 
 ## Journals
 
+**Changzeng Fu** et al. HiMul-LGG: A hierarchical decision fusion-based local-global graph neural network for multimodal emotion recognition in conversation. Neural Networks, 106764. (IF 6.0)
+
+**Changzeng Fu** et al. HAM-GNN: A hierarchical attention-based multi-dimensional edge graph neural network for dialogue act classification. Expert Systems with Applications, 125459. (IF 7.6)
+
 **Changzeng Fu** et al. PointTransform Networks for automatic depression level prediction via facial keypoints, Knowledge-Based Systems 297, 111951  (IF 7.2)
 
 **Changzeng Fu** et al. Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients, IEEE Transactions on Affective Computing  (IF 9.6)
