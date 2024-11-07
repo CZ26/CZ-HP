@@ -11,7 +11,11 @@ title: "publications"
 
 **Changzeng Fu** et al. PointTransform Networks for automatic depression level prediction via facial keypoints, Knowledge-Based Systems 297, 111951  (IF 7.2)
 
+Wang, Xinxiang, Yiming Yang, Zihan Li, Songyang Wang, Yibo Peng, and **Changzeng Fu**. "Enhancing emotional expression in cat-like robots: strategies for utilizing tail movements with human-like gazes." Frontiers in Robotics and AI 11 (2024): 1399012. (IF 2.9)
+
 **Changzeng Fu** et al. Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients, IEEE Transactions on Affective Computing  (IF 9.6)
+
+**Changzeng Fu**, Songyang Wang, Zihan Li, Ayush Gupta, Alexis Meneses, Hiroshi Ishiguro, and Yuichiro Yoshikawa. "Modulating Perceived Authority and Warmth of Mobile Social Robots through Bodily Openness and Vertical Movement in Gait." IEEE Robotics and Automation Letters (2024).(IF 4.6)
 
 **Changzeng Fu**, M Alexis, Y Yoshikawa, H Ishiguro, Enhancing the Mobile Humanoid Robot’s Emotional Expression with Affective Vertical-Oscillations, International Journal of Social Robotics, 1-18  (IF 3.8)
 
