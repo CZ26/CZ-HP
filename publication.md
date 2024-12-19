@@ -5,6 +5,10 @@ title: "publications"
 
 ## Journals
 
+**Fu, C.**, Qian, F., Su, Y., Su, K., Song, S., Niu, M., ... & Ishiguro, H. (2024). Facial action units guided graph representation learning for multimodal depression detection. Neurocomputing, 129106.
+
+Deng, Q., **Fu, C.**, Ban, M., & Iio, T. (2024). A systematic review on robot-assisted language learning for adults. Frontiers in Psychology, 15, 1471370.
+
 **Changzeng Fu** et al. HiMul-LGG: A hierarchical decision fusion-based local-global graph neural network for multimodal emotion recognition in conversation. Neural Networks, 106764. (IF 6.0)
 
 **Changzeng Fu** et al. HAM-GNN: A hierarchical attention-based multi-dimensional edge graph neural network for dialogue act classification. Expert Systems with Applications, 125459. (IF 7.6)
