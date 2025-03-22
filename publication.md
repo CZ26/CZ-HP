@@ -46,6 +46,8 @@ Song, S., Luo, Y., Tumer, T., **Changzegn Fu**, Valstar, M., & Gunes, H. (2024).
 
 ## Conferences
 
+名取大雅, **Fu Changzeng**, 石黒浩, 吉川雄一郎:“対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討”，第42回日本ロボット学会学術講演会予稿集，1H5-06，2024．
+
 **Fu, C.**, Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). HAG: Hierarchical Attention with Graph Network for Dialogue Act Classification in Conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
 Chen, Z., **Fu, C.**, Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). LGFat-RGCN: Faster Attention with Heterogeneous RGCN for Medical ICD Coding Generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
