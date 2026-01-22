@@ -1,86 +1,109 @@
----
+<img width="468" height="649" alt="image" src="https://github.com/user-attachments/assets/8e7372f1-712c-428d-9cf6-50d35a2229d3" /><img width="468" height="369" alt="image" src="https://github.com/user-attachments/assets/e04a5cc8-9cee-4848-a96a-aa62a88659fc" />---
 layout: page
 title: "publications"
 ---
 
 ## Journals
 
-**Fu, C.**, Qian, F., Su, Y., Su, K., Song, S., Niu, M., ... & Ishiguro, H. (2024). Facial action units guided graph representation learning for multimodal depression detection. Neurocomputing, 129106.
+[1]	Fu, C., Li, Z., Wang, S., Ishiguro, H., & Yoshikawa, Y. (2025). Improving Social Robot Recommendation Acceptance Through Geo-Gender Affinity Construction. IEEE Robotics and Automation Letters.
 
-Deng, Q., **Fu, C.**, Ban, M., & Iio, T. (2024). A systematic review on robot-assisted language learning for adults. Frontiers in Psychology, 15, 1471370.
+[2]	Zhao, Y., Zhang, H., Sun, T., Zhou, Z., Li, J., Lian, C., ... & Fu, C. (2025). Disease and personality information enhanced depression detection based on the TransGCL framework. Neurocomputing, 131160.
 
-**Changzeng Fu** et al. HiMul-LGG: A hierarchical decision fusion-based local-global graph neural network for multimodal emotion recognition in conversation. Neural Networks, 106764. (IF 6.0)
+[3]	Wang, S., Liu, D., Fu, C., Yuan, X., Shan, P., & Leung, V. C. (2025). Predictive Body Awareness in Soft Robots: A Bayesian Variational Autoencoder Fusing Multimodal Sensory Data. IEEE Transactions on Robotics.
 
-**Changzeng Fu** et al. HAM-GNN: A hierarchical attention-based multi-dimensional edge graph neural network for dialogue act classification. Expert Systems with Applications, 125459. (IF 7.6)
+[4]	Yang, L., Quan, X., Zhang, J., Liu, Y., Zhao, S., Fu, C., ... & Zhao, Y. (2025). Sea ice type identification method based on MEMS sensor network combined with PCA-BPMIV-GRU. IEEE Transactions on Instrumentation and Measurement.
 
-**Changzeng Fu** et al. PointTransform Networks for automatic depression level prediction via facial keypoints, Knowledge-Based Systems 297, 111951  (IF 7.2)
+[5]	Fu, C., Qian, F., Su, Y., Su, K., Song, S., Niu, M., ... & Ishiguro, H. (2025). Facial action units guided graph representation learning for multimodal depression detection. Neurocomputing, 619, 129106.
 
-Wang, Xinxiang, Yiming Yang, Zihan Li, Songyang Wang, Yibo Peng, and **Changzeng Fu**. "Enhancing emotional expression in cat-like robots: strategies for utilizing tail movements with human-like gazes." Frontiers in Robotics and AI 11 (2024): 1399012. (IF 2.9)
+[6]	Wang, Y., Hao, R., Li, Z., Kuang, X., Dong, J., Zhang, Q., ... & Fu, C. (2025). HGF-MiLaG: Hierarchical Graph Fusion for Emotion Recognition in Conversation with Mid-Late Gender-Aware Strategy. Sensors, 25(4), 1182.
 
-**Changzeng Fu** et al. Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients, IEEE Transactions on Affective Computing  (IF 9.6)
+[7]	Fu, C., Su, Y., Su, K., Liu, Y., Shi, J., Wu, B., ... & Ishiguro, H. (2025). HAM-GNN: A hierarchical attention-based multi-dimensional edge graph neural network for dialogue act classification. Expert Systems with Applications, 261, 125459.
 
-**Changzeng Fu**, Songyang Wang, Zihan Li, Ayush Gupta, Alexis Meneses, Hiroshi Ishiguro, and Yuichiro Yoshikawa. "Modulating Perceived Authority and Warmth of Mobile Social Robots through Bodily Openness and Vertical Movement in Gait." IEEE Robotics and Automation Letters (2024).(IF 4.6)
+[8]	Lian, C., Zhao, Y., Sun, T., Shao, J., Liu, Y., Fu, C., ... & Zhan, Z. (2025). Incorporating image representation and texture feature for sensor-based gymnastics activity recognition. Knowledge-Based Systems, 113076.
 
-**Changzeng Fu**, M Alexis, Y Yoshikawa, H Ishiguro, Enhancing the Mobile Humanoid Robot’s Emotional Expression with Affective Vertical-Oscillations, International Journal of Social Robotics, 1-18  (IF 3.8)
+[9]	Fu, C., Qian, F., Su, K., Su, Y., Wang, Z., Shi, J., ... & Ishi, C. T. (2025). HiMul-LGG: A hierarchical decision fusion-based local–global graph neural network for multimodal emotion recognition in conversation. Neural Networks, 181, 106764.
 
-**Changzeng Fu** et al. Intelligent IoT Anklets for Monitoring the Assessment of Parkinson’s Diseases. IEEE Sensors Journal (IF 4.3)
+[10]	Deng, Q., Fu, C., Ban, M., & Iio, T. (2024). A systematic review on robot-assisted language learning for adults. Frontiers in Psychology, 15, 1471370.
 
-**Changzeng Fu** et al. MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices. Remote Sensing 15 (24), 5665 (IF 5)
+[11]	Niu, M., Li, M., & Fu, C. (2024). PointTransform Networks for automatic depression level prediction via facial keypoints. Knowledge-Based Systems, 297, 111951.
 
-**Changzeng Fu** et al. Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications 243, 122837 (IF 8.5)
+[12]	Fu, C., Wang, S., Li, Z., Gupta, A., Meneses, A., Ishiguro, H., & Yoshikawa, Y. (2024). Modulating Perceived Authority and Warmth of Mobile Social Robots through Bodily Openness and Vertical Movement in Gait. IEEE Robotics and Automation Letters.
 
-Song, S., Luo, Y., Tumer, T., **Changzegn Fu**, Valstar, M., & Gunes, H. (2024). Loss relaxation strategy for noisy facial video-based automatic depression recognition. ACM Transactions on Computing for Healthcare, 5(2), 1-24.
+[13]	Wang, X., Li, Z., Wang, S., Yang, Y., Peng, Y., & Fu, C. (2024). Enhancing emotional expression in cat-like robots: strategies for utilizing tail movements with human-like gazes. Frontiers in Robotics and AI, 11, 1399012.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Improved CycleGAN-Based Emotional Voice Conversion Model by Augmenting Temporal Dependency with a Transformer", Speech Communication. (IF 2.723)
+[14]	Fu, C., Alexis, M., Yoshikawa, Y., & Ishiguro, H. (2024). Enhancing the Mobile Humanoid Robot’s Emotional Expression with Affective Vertical-Oscillations. International Journal of Social Robotics, 16(7), 1523-1540.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An Adversarial Auto-encoder Based Speech Emotion Classifier with Isolated Gaussian Regularization", IEEE Transactions on Affective Computing. (IF 13.99)
+[15]	Li, J., Zhao, Y., Zhang, H., LiMember, W. J., Fu, C., Lian, C., & Shan, P. (2024). Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients. IEEE Transactions on Affective Computing.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, "Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IEEE Robotics and Automation Letters-2021. (IF 4.321)
+[16]	Zhao, Y., Liu, Y., Li, J., Wang, X., Yang, R., Lian, C., ... & Fu, C. (2024). Global joint information extraction convolution neural network for Parkinson’s disease diagnosis. Expert Systems with Applications, 243, 122837.
 
-**Changzeng Fu**, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro. "Sharing Experiences to Help a Robot Present Its Mind and Sociability" International Journal of Social Robotics (2020): 1-12. (IF 3.802)
+[17]	Song, S., Luo, Y., Tumer, T., Fu, C., Valstar, M., & Gunes, H. (2024). Loss relaxation strategy for noisy facial video-based automatic depression recognition. ACM Transactions on Computing for Healthcare, 5(2), 1-24.
 
-**Changzeng Fu**, Qi Deng, Jingcheng Shen, Hamed Mahzoon, and Hiroshi Ishiguro. "A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally." Sensors 22, no. 3 (2022): 991. (IF 3.847)
+[18]	Liu, Y., Zhao, Y., Zhang, X., Wang, X., Lian, C., Li, J., ... & Li, W. J. (2023). Mobilesam-track: lightweight one-shot tracking and segmentation of small objects on edge devices. Remote Sensing, 15(24), 5665.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " Multi-modality Emotion Recognition Model with Multi-head Inter-modality Graph Attention", Sensors-2020 (IF 3.847)
+[19]	Zhao, Y., Liu, Y., Lu, W., Li, J., Shan, P., Lian, C., ... & Wang, Y. (2023). Intelligent iot anklets for monitoring the assessment of parkinson’s diseases. IEEE Sensors Journal, 23(24), 31523-31536.
+
+[20]	Wang, Y., Chen, Z., & Fu, C. (2022). Synergy masks of domain attribute model DaBERT: emotional tracking on time-varying virtual space communication. Sensors, 22(21), 8450.
+
+[21]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022). An improved CycleGAN-based emotional voice conversion model by augmenting temporal dependency with a transformer. Speech Communication, 144, 110-121.
+
+[22]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022). An adversarial training based speech emotion classifier with isolated Gaussian regularization. IEEE Transactions on Affective Computing, 14(3), 2361-2374.
+
+[23]	Fu, C., Deng, Q., Shen, J., Mahzoon, H., & Ishiguro, H. (2022). A preliminary study on realizing human–robot mental comforting dialogue via sharing experience emotionally. Sensors, 22(3), 991.
+
+[24]	Fu, C., Liu, C., Ishi, C. T., Yoshikawa, Y., Iio, T., & Ishiguro, H. (2021). Using an android robot to improve social connectedness by sharing recent experiences of group members in human-robot conversations. IEEE Robotics and Automation Letters, 6(4), 6670-6677.
+
+[25]	Fu, C., Yoshikawa, Y., Iio, T., & Ishiguro, H. (2021). Sharing experiences to help a robot present its mind and sociability. International Journal of Social Robotics, 13, 341-352.
+
+[26]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2020). Multi-modality emotion recognition model with GAT-based multi-head inter-modality attention. Sensors, 20(17), 4894.
+
 
 
 ## Conferences
 
-名取大雅, **Fu Changzeng**, 石黒浩, 吉川雄一郎:“対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討”，第42回日本ロボット学会学術講演会予稿集，1H5-06，2024．
+[1]	Fu, C., Fu, Z., Zhang, Q., Kuang, X., Dong, J., Su, K., ... & Ishiguro, H. (2025, October). The First MPDD Challenge: Multimodal Personality-aware Depression Detection. In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13924-13929).
 
-**Fu, C.**, Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). HAG: Hierarchical Attention with Graph Network for Dialogue Act Classification in Conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+[2]	Wu, Z., Zhou, L., Li, S., Fu, C., Lu, J., Han, J., ... & Song, S. (2025, April). DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 2, pp. 1610-1619).
 
-Chen, Z., **Fu, C.**, Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). LGFat-RGCN: Faster Attention with Heterogeneous RGCN for Medical ICD Coding Generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
+[3]	Fu, C., Su, K., Su, Y., Qian, F., Zhang, Y., Liu, C., ... & Zhao, Y. (2025, April). M 3 ADD: A Novel Benchmark for Physiology Signal-based Automatic Depression Detection with Multimodal Multitask Multievent Framework. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer.” Proceedings of 2022 APSIPA Annual Summit and Conference， 7-10 November 2022, Chiang Mai, Thailand. 
+[4]	Fu, C., Fu, Z., Yan, S., Lyv, X., & Zhao, Y. (2025, April). In-Context Multitask Learning for Few-shot Fine-tuning of Large Language Models in Traditional Chinese Medicine Tongue Diagnosis. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, “A Controllable Cross-gender Voice Conversion for Social Robot.” 2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII2022) Workshops and Demos. (Best Workshop Paper)
+[5]	Fu, C., Su, Y., Su, K., Yang, L., Shan, P., Lv, X., & Zhao, Y. (2025, April). Hierarchical Similarity Loss Enhanced Depth and Structural Fidelity in Monocular RGB-to-Depth Mapping with Adversarial Training. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-Yu, Chuang, **Changzeng Fu**, Rui Chen, Adriana Tapus, "First Attempt of Gender-free Speech Style Transfer for Genderless Robot." Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. 2022. (Best LBR Award 2nd Prize)
+[6]	Chen, Z., Fu, C., Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). Lgfat-rgcn: Faster attention with heterogeneous rgcn for medical icd coding generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " MAEC: Multi-instance Learning with and Adversarial Auto-encoder-based Classifier for Speech Emotion Recognition", ICASSP 2021.
+[7]	名取大雅, Fu Changzeng, 石黒浩, 吉川雄一郎:“対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討”，第42回日本ロボット学会学術講演会予稿集，1H5-06，2024．
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, Yuichiro Yoshikawa, Takamasa Iio, and Hiroshi Ishiguro, " Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations ", IROS 2021.
+[8]	Fu, C., Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). Hag: Hierarchical attention with graph network for dialogue act classification in conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro, " An End-to-End Multitask Learning Model to Improve Speech Emotion Recognition". The 28th European Signal Processing Conference.
+[9]	Li, Y., Inoue, K., Tian, L., Fu, C., Ishi, C. T., Ishiguro, H., ... & Lai, C. (2023, April). I know your feelings before you do: Predicting future affective reactions in human-computer dialogue. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7).
 
-**Changzeng Fu**, Jiaqi Shi, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro “AAEC:An Adversarial Autoencoder-based Classifier for Audio Emotion Recognition”. Multimodal Sentiment Analysis in Real-life Media Challenge, ACM MultiMedia 2020.
+[10]	Chen, Z., Fu, C., & Tang, X. (2023, April). Multi-domain fake news detection with fuzzy labels. In International Conference on Database Systems for Advanced Applications (pp. 331-343). Cham: Springer Nature Switzerland.
 
-**Changzeng Fu**, Thilina Dissanayake, Kazufumi Hosoda, Takuya Maekawa, and Hiroshi Ishiguro. "Similarity of Speech Emotion in Different Languages Revealed by a Neural Network with Attention." In 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pp. 381-386. IEEE, 2020.
+[11]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, November). C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer. In 2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (pp. 553-559). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Ishi, Yuichiro Yoshikawa, and Hiroshi Ishiguro. "SeMemNN: A Semantic Matrix-Based Memory Neural Network for Text Classification." In 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pp. 123-127. IEEE, 2020.
+[12]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, October). A CONTROLLABLE CROSS-GENDER VOICE CONVERSION FOR SOCIAL ROBOT. In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-4). IEEE.
 
-Jingcheng Shen, **Changzeng Fu**, Xiangtian Deng, and Fumihiko Ino. "A Study on Training Story Generation Models Based on Event Representations" In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD), IEEE, 2020.
+[13]	Yu, C., Fu, C., Chen, R., & Tapus, A. (2022, March). First attempt of gender-free speech style transfer for genderless robot. In 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 1110-1113). IEEE.
 
-Li, Xinyue, Carlos Toshinori Ishi, **Changzeng Fu**, and Ryoko Hayashi. "Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese learners and Japanese Native Speakers." Proc. Speech Prosody 2022 (2022): 550-554.
+[14]	Li, X., Ishi, C. T., Fu, C., & Hayashi, R. (2022, May). Prosodic and voice quality analyses of filled pauses in Japanese spontaneous conversation by Chinese learners and Japanese native speakers. In Proceedings of Speech Prosody (Vol. 2022, pp. 550-554).
 
-Li, Yuanchao, Koji Inoue, Leimin Tian, **Changzeng Fu**, Carlos Toshinori Ishi, Hiroshi Ishiguro, Tatsuya Kawahara, and Catherine Lai. "I Know Your Feelings Before You Do: Predicting Future Affective Reactions in Human-Computer Dialogue." In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-7. 2023. (EI)
+[15]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021). Cycletransgan-evc: A cyclegan-based emotional voice conversion model with transformer. arXiv preprint arXiv:2111.15159.
 
-## Miscellaneous
+[16]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, June). MAEC: Multi-instance learning with an adversarial auto-encoder-based classifier for speech emotion recognition. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6299-6303). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, and Hiroshi Ishiguro. "CycleTransGAN-EVC: A CycleGAN-based Emotional Voice Conversion Model with Transformer." arXiv preprint arXiv:2111.15159 (2021).
+[17]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, January). An end-to-end multitask learning model to improve speech emotion recognition. In 2020 28th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-**Changzeng Fu**, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Dataset].http://doi.org/10.5281/zenodo.4590253
+[18]	Fu, C. (2021). JPS-daprinfo: A dataset for japanese dialog act analysis and people-related information detection. arXiv preprint arXiv:2103.11786.
+
+[19]	Fu, C., Shi, J., Liu, C., Ishi, C. T., & Ishiguro, H. (2020, October). AAEC: An adversarial autoencoder-based classifier for audio emotion recognition. In Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop (pp. 45-51).
+
+[20]	Shen, J., Fu, C., Deng, X., & Ino, F. (2020, May). A Study on Training Story Generation Models Based on Event Representations. In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD) (pp. 210-214). IEEE.
+
+[21]	Fu, C., Liu, C., Ishi, C., Yoshikawa, Y., & Ishiguro, H. (2020, February). SeMemNN: A semantic matrix-based memory neural network for text classification. In 2020 IEEE 14th International Conference on Semantic Computing (ICSC) (pp. 123-127). IEEE.
+
+[22]	Fu, C., Dissanayake, T., Hosoda, K., Maekawa, T., & Ishiguro, H. (2020, February). Similarity of speech emotion in different languages revealed by a neural network with attention. In 2020 IEEE 14th international conference on semantic computing (ICSC) (pp. 381-386). IEEE.
 
 
 ## Grants
