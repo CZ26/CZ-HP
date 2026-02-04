@@ -1,4 +1,4 @@
-<img width="468" height="649" alt="image" src="https://github.com/user-attachments/assets/8e7372f1-712c-428d-9cf6-50d35a2229d3" /><img width="468" height="369" alt="image" src="https://github.com/user-attachments/assets/e04a5cc8-9cee-4848-a96a-aa62a88659fc" />---
+---
 layout: page
 title: "publications"
 ---
@@ -61,49 +61,51 @@ title: "publications"
 
 ## Conferences
 
-[1]	Fu, C., Fu, Z., Zhang, Q., Kuang, X., Dong, J., Su, K., ... & Ishiguro, H. (2025, October). The First MPDD Challenge: Multimodal Personality-aware Depression Detection. In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13924-13929).
+[1] Fu, C., Zhao, S., Zhang, Y., Jian, Z., Zhao, S., & Liu, C.(2026). Personality-guided Public-Private Domain Disentangled Hypergraph-Former Network for Multimodal Depression Detection. In Proceedings of the AAAI Conference on Artificial Intelligence.
 
-[2]	Wu, Z., Zhou, L., Li, S., Fu, C., Lu, J., Han, J., ... & Song, S. (2025, April). DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 2, pp. 1610-1619).
+[2] Fu, C., Fu, Z., Zhang, Q., Kuang, X., Dong, J., Su, K., ... & Ishiguro, H. (2025, October). The First MPDD Challenge: Multimodal Personality-aware Depression Detection. In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 13924-13929).
 
-[3]	Fu, C., Su, K., Su, Y., Qian, F., Zhang, Y., Liu, C., ... & Zhao, Y. (2025, April). M 3 ADD: A Novel Benchmark for Physiology Signal-based Automatic Depression Detection with Multimodal Multitask Multievent Framework. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+[3] Wu, Z., Zhou, L., Li, S., Fu, C., Lu, J., Han, J., ... & Song, S. (2025, April). DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 2, pp. 1610-1619).
 
-[4]	Fu, C., Fu, Z., Yan, S., Lyv, X., & Zhao, Y. (2025, April). In-Context Multitask Learning for Few-shot Fine-tuning of Large Language Models in Traditional Chinese Medicine Tongue Diagnosis. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+[4] Fu, C., Su, K., Su, Y., Qian, F., Zhang, Y., Liu, C., ... & Zhao, Y. (2025, April). M 3 ADD: A Novel Benchmark for Physiology Signal-based Automatic Depression Detection with Multimodal Multitask Multievent Framework. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-[5]	Fu, C., Su, Y., Su, K., Yang, L., Shan, P., Lv, X., & Zhao, Y. (2025, April). Hierarchical Similarity Loss Enhanced Depth and Structural Fidelity in Monocular RGB-to-Depth Mapping with Adversarial Training. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+[5] Fu, C., Fu, Z., Yan, S., Lyv, X., & Zhao, Y. (2025, April). In-Context Multitask Learning for Few-shot Fine-tuning of Large Language Models in Traditional Chinese Medicine Tongue Diagnosis. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-[6]	Chen, Z., Fu, C., Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). Lgfat-rgcn: Faster attention with heterogeneous rgcn for medical icd coding generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
+[6] Fu, C., Su, Y., Su, K., Yang, L., Shan, P., Lv, X., & Zhao, Y. (2025, April). Hierarchical Similarity Loss Enhanced Depth and Structural Fidelity in Monocular RGB-to-Depth Mapping with Adversarial Training. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-[7]	名取大雅, Fu Changzeng, 石黒浩, 吉川雄一郎:“対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討”，第42回日本ロボット学会学術講演会予稿集，1H5-06，2024．
+[7] Chen, Z., Fu, C., Wu, R., Wang, Y., Tang, X., & Liang, X. (2023, October). Lgfat-rgcn: Faster attention with heterogeneous rgcn for medical icd coding generation. In Proceedings of the 31st ACM International Conference on Multimedia (pp. 5428-5435).
 
-[8]	Fu, C., Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). Hag: Hierarchical attention with graph network for dialogue act classification in conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+[8] 名取大雅, Fu Changzeng, 石黒浩, 吉川雄一郎:"対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討"，第42回日本ロボット学会学術講演会予稿集，1H5-06，2024．
 
-[9]	Li, Y., Inoue, K., Tian, L., Fu, C., Ishi, C. T., Ishiguro, H., ... & Lai, C. (2023, April). I know your feelings before you do: Predicting future affective reactions in human-computer dialogue. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7).
+[9] Fu, C., Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., & Ishiguro, H. (2023, June). Hag: Hierarchical attention with graph network for dialogue act classification in conversation. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
-[10]	Chen, Z., Fu, C., & Tang, X. (2023, April). Multi-domain fake news detection with fuzzy labels. In International Conference on Database Systems for Advanced Applications (pp. 331-343). Cham: Springer Nature Switzerland.
+[10] Li, Y., Inoue, K., Tian, L., Fu, C., Ishi, C. T., Ishiguro, H., ... & Lai, C. (2023, April). I know your feelings before you do: Predicting future affective reactions in human-computer dialogue. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7).
 
-[11]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, November). C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer. In 2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (pp. 553-559). IEEE.
+[11] Chen, Z., Fu, C., & Tang, X. (2023, April). Multi-domain fake news detection with fuzzy labels. In International Conference on Database Systems for Advanced Applications (pp. 331-343). Cham: Springer Nature Switzerland.
 
-[12]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, October). A CONTROLLABLE CROSS-GENDER VOICE CONVERSION FOR SOCIAL ROBOT. In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-4). IEEE.
+[12] Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, November). C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer. In 2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (pp. 553-559). IEEE.
 
-[13]	Yu, C., Fu, C., Chen, R., & Tapus, A. (2022, March). First attempt of gender-free speech style transfer for genderless robot. In 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 1110-1113). IEEE.
+[13] Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2022, October). A CONTROLLABLE CROSS-GENDER VOICE CONVERSION FOR SOCIAL ROBOT. In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-4). IEEE.
 
-[14]	Li, X., Ishi, C. T., Fu, C., & Hayashi, R. (2022, May). Prosodic and voice quality analyses of filled pauses in Japanese spontaneous conversation by Chinese learners and Japanese native speakers. In Proceedings of Speech Prosody (Vol. 2022, pp. 550-554).
+[14] Yu, C., Fu, C., Chen, R., & Tapus, A. (2022, March). First attempt of gender-free speech style transfer for genderless robot. In 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 1110-1113). IEEE.
 
-[15]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021). Cycletransgan-evc: A cyclegan-based emotional voice conversion model with transformer. arXiv preprint arXiv:2111.15159.
+[15] Li, X., Ishi, C. T., Fu, C., & Hayashi, R. (2022, May). Prosodic and voice quality analyses of filled pauses in Japanese spontaneous conversation by Chinese learners and Japanese native speakers. In Proceedings of Speech Prosody (Vol. 2022, pp. 550-554).
 
-[16]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, June). MAEC: Multi-instance learning with an adversarial auto-encoder-based classifier for speech emotion recognition. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6299-6303). IEEE.
+[16] Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021). Cycletransgan-evc: A cyclegan-based emotional voice conversion model with transformer. arXiv preprint arXiv:2111.15159.
 
-[17]	Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, January). An end-to-end multitask learning model to improve speech emotion recognition. In 2020 28th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
+[17] Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, June). MAEC: Multi-instance learning with an adversarial auto-encoder-based classifier for speech emotion recognition. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6299-6303). IEEE.
 
-[18]	Fu, C. (2021). JPS-daprinfo: A dataset for japanese dialog act analysis and people-related information detection. arXiv preprint arXiv:2103.11786.
+[18] Fu, C., Liu, C., Ishi, C. T., & Ishiguro, H. (2021, January). An end-to-end multitask learning model to improve speech emotion recognition. In 2020 28th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-[19]	Fu, C., Shi, J., Liu, C., Ishi, C. T., & Ishiguro, H. (2020, October). AAEC: An adversarial autoencoder-based classifier for audio emotion recognition. In Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop (pp. 45-51).
+[19] Fu, C. (2021). JPS-daprinfo: A dataset for japanese dialog act analysis and people-related information detection. arXiv preprint arXiv:2103.11786.
 
-[20]	Shen, J., Fu, C., Deng, X., & Ino, F. (2020, May). A Study on Training Story Generation Models Based on Event Representations. In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD) (pp. 210-214). IEEE.
+[20] Fu, C., Shi, J., Liu, C., Ishi, C. T., & Ishiguro, H. (2020, October). AAEC: An adversarial autoencoder-based classifier for audio emotion recognition. In Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop (pp. 45-51).
 
-[21]	Fu, C., Liu, C., Ishi, C., Yoshikawa, Y., & Ishiguro, H. (2020, February). SeMemNN: A semantic matrix-based memory neural network for text classification. In 2020 IEEE 14th International Conference on Semantic Computing (ICSC) (pp. 123-127). IEEE.
+[21] Shen, J., Fu, C., Deng, X., & Ino, F. (2020, May). A Study on Training Story Generation Models Based on Event Representations. In 2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD) (pp. 210-214). IEEE.
 
-[22]	Fu, C., Dissanayake, T., Hosoda, K., Maekawa, T., & Ishiguro, H. (2020, February). Similarity of speech emotion in different languages revealed by a neural network with attention. In 2020 IEEE 14th international conference on semantic computing (ICSC) (pp. 381-386). IEEE.
+[22] Fu, C., Liu, C., Ishi, C., Yoshikawa, Y., & Ishiguro, H. (2020, February). SeMemNN: A semantic matrix-based memory neural network for text classification. In 2020 IEEE 14th International Conference on Semantic Computing (ICSC) (pp. 123-127). IEEE.
+
+[23] Fu, C., Dissanayake, T., Hosoda, K., Maekawa, T., & Ishiguro, H. (2020, February). Similarity of speech emotion in different languages revealed by a neural network with attention. In 2020 IEEE 14th international conference on semantic computing (ICSC) (pp. 381-386). IEEE.
 
 
 ## Grants
