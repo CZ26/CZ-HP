@@ -98,6 +98,7 @@ The process of exploration is always full of difficulties. We encourage our coll
 
 ### Undergraduate student
 We now have 20+ undergraduate students from Computer Science, Telecommunications Engineering, Applied Statistics，Linguistics
+
 <!-- <table>
   <tr>
     <td> <img src="https://github.com/CZ26/CZ-HP/assets/87885251/cf60a1a5-c1ca-4f9b-864f-88bd2aa5932f" width="150" height="150" /> <br/> <em>Huizu Lin<br/>@ SSTC-NEU</em> </td>
