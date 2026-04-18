@@ -135,6 +135,55 @@ nav {
 .arch-container::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
 .arch-container::-webkit-scrollbar-thumb:hover { background: var(--ink2); }
 
+/* Added layout wrapper */
+.arch-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  min-width: max-content; /* Ensure it scrolls if too small */
+}
+
+/* Info Panel */
+.arch-info {
+  flex: 0 0 320px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 30px;
+  box-shadow: var(--shadow);
+}
+.arch-info h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+.arch-info p {
+  font-size: 0.88rem;
+  color: var(--ink2);
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+.arch-info-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.arch-info-list li {
+  font-size: 0.85rem;
+  color: var(--ink);
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.arch-info-list i {
+  color: var(--warm);
+  font-size: 0.9rem;
+  margin-top: 3px;
+}
+
 .tree {
   display: flex;
   justify-content: flex-start;
@@ -436,65 +485,77 @@ footer a { color: var(--warm2); text-decoration:none; }
     <p class="section-subtitle">We combine cognitive science, psychology, robotics, and AI to explore emotion-aware intelligent systems — from theory to real-world applications.</p>
   </div>
   <div class="arch-container fade-in">
-    <div class="tree">
-      <ul>
-        <li>
-          <div class="arch-node root-node">HACI</div>
-          <ul>
-            <li>
-              <div class="arch-node mid-node">Social Interaction</div>
-              <ul>
-                <li>
-                  <div class="arch-node leaf-node">
-                    <div class="leaf-title">Long-term Interaction</div>
-                    <div class="leaf-desc">Building sustained engagement and trust over extended periods.</div>
-                  </div>
-                </li>
-                <li>
-                  <div class="arch-node leaf-node">
-                    <div class="leaf-title">Rapport Building</div>
-                    <div class="leaf-desc">Fostering emotional resonance and social bonds between humans and agents.</div>
-                  </div>
-                </li>
-              </ul>
-            </li>
-            <li>
-                <div class="arch-node mid-node">Multimodal Behavior recognition</div>
+    <div class="arch-layout">
+      <div class="tree">
+        <ul>
+          <li>
+            <div class="arch-node root-node">HACI</div>
+            <ul>
+              <li>
+                <div class="arch-node mid-node">Social Interaction</div>
                 <ul>
                   <li>
                     <div class="arch-node leaf-node">
-                      <div class="leaf-title">Multimodal Emotion Recognition</div>
-                      <div class="leaf-desc">Analyzing speech, vision, and text to accurately perceive human emotions.</div>
+                      <div class="leaf-title">Long-term Interaction</div>
+                      <div class="leaf-desc">Building sustained engagement and trust over extended periods.</div>
                     </div>
                   </li>
                   <li>
                     <div class="arch-node leaf-node">
-                      <div class="leaf-title">Multimodal Personality-aware depression detection</div>
-                      <div class="leaf-desc">Inferring user personality traits from multimodal behavioral cues for mental health assessment.</div>
+                      <div class="leaf-title">Rapport Building</div>
+                      <div class="leaf-desc">Fostering emotional resonance and social bonds between humans and agents.</div>
                     </div>
                   </li>
                 </ul>
               </li>
-            <li>
-                <div class="arch-node mid-node">Multimodal Affective Expression</div>
-                <ul>
-                  <li>
-                    <div class="arch-node leaf-node">
-                      <div class="leaf-title">Affective Behavior Generation</div>
-                      <div class="leaf-desc">Synthesizing emotionally expressive speech, facial expressions, and gestures.</div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="arch-node leaf-node">
-                      <div class="leaf-title">Agent-based Affective Interaction Strategy</div>
-                      <div class="leaf-desc">Designing policies for empathetic and socially appropriate agent responses.</div>
-                    </div>
-                  </li>
-                </ul>
-              </li>
-          </ul>
-        </li>
-      </ul>
+              <li>
+                  <div class="arch-node mid-node">Multimodal Behavior recognition</div>
+                  <ul>
+                    <li>
+                      <div class="arch-node leaf-node">
+                        <div class="leaf-title">Multimodal Emotion Recognition</div>
+                        <div class="leaf-desc">Analyzing speech, vision, and text to accurately perceive human emotions.</div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="arch-node leaf-node">
+                        <div class="leaf-title">Personality-aware depression detection</div>
+                        <div class="leaf-desc">Inferring user personality traits from multimodal behavioral cues for mental health assessment.</div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+              <li>
+                  <div class="arch-node mid-node">Multimodal Affective Expression</div>
+                  <ul>
+                    <li>
+                      <div class="arch-node leaf-node">
+                        <div class="leaf-title">Affective Behavior Generation</div>
+                        <div class="leaf-desc">Synthesizing emotionally expressive speech, facial expressions, and gestures.</div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="arch-node leaf-node">
+                        <div class="leaf-title">Agent-based Affective Interaction Strategy</div>
+                        <div class="leaf-desc">Designing policies for empathetic and socially appropriate agent responses.</div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div class="arch-info">
+        <h3>Research Framework</h3>
+        <p>The <strong>HACI</strong> focus on multimodal perception, cognitive reasoning, and affective expression to build socially intelligent agents.</p>
+        <ul class="arch-info-list">
+          <li><i class="fa-solid fa-arrow-right"></i> Perceiving human states through multimodal signals</li>
+          <li><i class="fa-solid fa-arrow-right"></i> Modeling psychological and cognitive mechanisms</li>
+          <li><i class="fa-solid fa-arrow-right"></i> Synthesizing empathetic and expressive behaviors</li>
+        </ul>
+      </div>
     </div>
   </div>
   <div class="research-grid">
