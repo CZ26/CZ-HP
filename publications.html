@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publications | Changzeng Fu 傅昌锃</title>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+:root {
+  --bg:#faf7f2; --bg2:#f3ede3; --ink:#1e1810; --ink2:#5a4f42;
+  --warm:#c8602a; --warm2:#e8824a; --warm-glow:rgba(200,96,42,0.12);
+  --teal:#2a7d8c; --teal2:#3a9aad; --teal-glow:rgba(42,125,140,0.12);
+  --border:#d8cfc0; --card:#ffffff;
+  --serif:'Lora',Georgia,serif; --sans:'DM Sans',sans-serif; --mono:'JetBrains Mono',monospace;
+  --radius:12px; --shadow:0 2px 20px rgba(30,24,16,0.08); --shadow-lg:0 8px 40px rgba(30,24,16,0.12);
+}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:var(--sans);background:var(--bg);color:var(--ink);line-height:1.7;overflow-x:hidden;}
+
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(250,247,242,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 40px;height:60px;display:flex;align-items:center;justify-content:space-between;}
+.nav-logo{font-family:var(--serif);font-size:1.1rem;font-weight:700;color:var(--warm);text-decoration:none;}
+.nav-links{display:flex;gap:28px;list-style:none;}
+.nav-links a{font-size:0.85rem;font-weight:500;color:var(--ink2);text-decoration:none;letter-spacing:0.04em;text-transform:uppercase;transition:color 0.2s;}
+.nav-links a:hover,.nav-links a.active{color:var(--warm);}
+
+.page-hero{padding:120px 80px 70px;background:var(--ink);color:white;position:relative;overflow:hidden;}
+.page-hero-bg{position:absolute;inset:0;background:radial-gradient(ellipse 60% 80% at 20% 50%,rgba(200,96,42,0.15) 0%,transparent 60%),radial-gradient(ellipse 40% 60% at 90% 30%,rgba(42,125,140,0.1) 0%,transparent 60%);}
+.page-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.03) 1px,transparent 1px);background-size:60px 60px;mask-image:radial-gradient(ellipse 100% 100% at 0% 0%,black 20%,transparent 70%);}
+.page-hero .label{font-family:var(--mono);font-size:0.7rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--warm2);margin-bottom:12px;position:relative;z-index:2;}
+.page-hero h1{font-family:var(--serif);font-size:clamp(2rem,4vw,3rem);font-weight:700;position:relative;z-index:2;line-height:1.2;}
+.page-hero p{margin-top:14px;color:rgba(255,255,255,0.65);font-size:1rem;max-width:600px;position:relative;z-index:2;}
+
+.pub-main{padding:60px 80px;max-width:1100px;margin:0 auto;}
+
+/* Filter tabs */
+.filter-bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:40px;padding-bottom:20px;border-bottom:2px solid var(--border);}
+.filter-btn{font-family:var(--mono);font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;padding:7px 16px;border-radius:100px;border:1px solid var(--border);background:transparent;color:var(--ink2);cursor:pointer;transition:all 0.2s;}
+.filter-btn:hover{border-color:var(--warm2);color:var(--warm);}
+.filter-btn.active{background:var(--warm);color:white;border-color:var(--warm);}
+
+/* Section headers */
+.pub-section{margin-bottom:56px;}
+.pub-section-header{display:flex;align-items:center;gap:14px;margin-bottom:24px;}
+.pub-section-header h2{font-family:var(--serif);font-size:1.3rem;color:var(--ink);}
+.pub-section-line{flex:1;height:1px;background:var(--border);}
+
+/* Publication items */
+.pub-item{display:flex;gap:18px;padding:18px 0;border-bottom:1px solid rgba(216,207,192,0.6);align-items:flex-start;transition:background 0.15s;}
+.pub-item:last-child{border-bottom:none;}
+.pub-num{font-family:var(--mono);font-size:0.7rem;color:rgba(200,96,42,0.5);padding-top:4px;min-width:26px;flex-shrink:0;}
+.pub-content{flex:1;}
+.pub-title{font-size:0.92rem;font-weight:600;color:var(--ink);line-height:1.55;margin-bottom:5px;}
+.pub-authors{font-size:0.82rem;color:var(--ink2);line-height:1.6;}
+.pub-authors strong{color:var(--warm);}
+.pub-venue{font-size:0.8rem;color:var(--teal);margin-top:3px;font-style:italic;}
+.pub-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px;}
+
+/* Badge types */
+.badge{display:inline-flex;align-items:center;gap:4px;font-family:var(--mono);font-size:0.62rem;padding:2px 8px;border-radius:4px;font-weight:600;letter-spacing:0.04em;white-space:nowrap;}
+.badge-venue{background:rgba(30,24,16,0.07);color:var(--ink2);border:1px solid var(--border);}
+.badge-ccf-a{background:#c0392b18;color:#c0392b;border:1px solid #c0392b30;}
+.badge-ccf-b{background:#e67e2218;color:#d35400;border:1px solid #d3540030;}
+.badge-ccf-c{background:#f39c1218;color:#b7770d;border:1px solid #b7770d30;}
+.badge-q1{background:rgba(42,125,140,0.12);color:#1a6470;border:1px solid rgba(42,125,140,0.3);}
+.badge-q2{background:rgba(42,125,140,0.07);color:#2a7d8c;border:1px solid rgba(42,125,140,0.2);}
+.badge-q3{background:rgba(90,79,66,0.08);color:var(--ink2);border:1px solid var(--border);}
+.badge-year{background:rgba(200,96,42,0.08);color:var(--warm);border:1px solid rgba(200,96,42,0.2);}
+.badge-conf-top{background:#8e44ad18;color:#6c3483;border:1px solid #6c348330;}
+
+/* Grant / Patent items */
+.grant-item,.patent-item{padding:16px 20px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);margin-bottom:12px;}
+.grant-item h4,.patent-item h4{font-size:0.92rem;font-weight:600;color:var(--ink);margin-bottom:4px;}
+.grant-item p,.patent-item p{font-size:0.82rem;color:var(--ink2);}
+.grant-role{display:inline-block;font-family:var(--mono);font-size:0.65rem;background:rgba(200,96,42,0.1);color:var(--warm);border:1px solid rgba(200,96,42,0.2);padding:1px 8px;border-radius:4px;margin-left:8px;}
+
+.fade-in{opacity:0;transform:translateY(20px);transition:opacity 0.5s ease,transform 0.5s ease;}
+.fade-in.visible{opacity:1;transform:none;}
+
+@media(max-width:900px){
+  .page-hero{padding:100px 24px 60px;}
+  .pub-main{padding:40px 24px;}
+  nav{padding:0 20px;}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="index.html" class="nav-logo">Changzeng Fu 傅昌锃</a>
+  <ul class="nav-links">
+    <li><a href="index.html#research">Research</a></li>
+    <li><a href="lab.html">Lab</a></li>
+    <li><a href="publications.html" class="active">Publications</a></li>
+    <li><a href="index.html#experience">CV</a></li>
+    <li><a href="index.html#demos">Demos</a></li>
+    <li><a href="index.html#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<div class="page-hero">
+  <div class="page-hero-bg"></div>
+  <div class="page-hero-grid"></div>
+  <div class="label">Scholarly Work</div>
+  <h1>Publications</h1>
+  <p>Complete list of journal papers, conference papers, patents, and research grants. <strong style="color:var(--warm2);">Fu C.</strong> / <strong style="color:var(--warm2);">Changzeng Fu</strong> denotes corresponding or first authorship.</p>
+</div>
+
+<div class="pub-main">
+
+  <!-- Filter bar -->
+  <div class="filter-bar fade-in">
+    <button class="filter-btn active" onclick="filterSections('all',this)">All</button>
+    <button class="filter-btn" onclick="filterSections('journals',this)">Journals</button>
+    <button class="filter-btn" onclick="filterSections('conferences',this)">Conferences</button>
+    <button class="filter-btn" onclick="filterSections('patents',this)">Patents</button>
+    <button class="filter-btn" onclick="filterSections('grants',this)">Grants</button>
+  </div>
+
+  <!-- JOURNALS -->
+  <div class="pub-section fade-in" data-section="journals">
+    <div class="pub-section-header">
+      <h2><i class="fa-solid fa-book-open" style="color:var(--warm);font-size:1rem;"></i> Journal Papers</h2>
+      <div class="pub-section-line"></div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J1</div>
+      <div class="pub-content">
+        <div class="pub-title">Improving Social Robot Recommendation Acceptance Through Geo-Gender Affinity Construction</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Li, Z., Wang, S., Ishiguro, H., &amp; Yoshikawa, Y.</div>
+        <div class="pub-venue">IEEE Robotics and Automation Letters, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">RA-L</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J2</div>
+      <div class="pub-content">
+        <div class="pub-title">Disease and Personality Information Enhanced Depression Detection Based on the TransGCL Framework</div>
+        <div class="pub-authors">Zhao, Y., Zhang, H., Sun, T., Zhou, Z., Li, J., Lian, C., ... &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Neurocomputing, 131160, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Neurocomputing</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J3</div>
+      <div class="pub-content">
+        <div class="pub-title">Predictive Body Awareness in Soft Robots: A Bayesian Variational Autoencoder Fusing Multimodal Sensory Data</div>
+        <div class="pub-authors">Wang, S., Liu, D., <strong>Fu, C.</strong>, Yuan, X., Shan, P., &amp; Leung, V. C.</div>
+        <div class="pub-venue">IEEE Transactions on Robotics, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">T-RO</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J4</div>
+      <div class="pub-content">
+        <div class="pub-title">Sea Ice Type Identification Method Based on MEMS Sensor Network Combined with PCA-BPMIV-GRU</div>
+        <div class="pub-authors">Yang, L., Quan, X., Zhang, J., Liu, Y., Zhao, S., <strong>Fu, C.</strong>, ... &amp; Zhao, Y.</div>
+        <div class="pub-venue">IEEE Transactions on Instrumentation and Measurement, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">TIM</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J5</div>
+      <div class="pub-content">
+        <div class="pub-title">Facial Action Units Guided Graph Representation Learning for Multimodal Depression Detection</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Qian, F., Su, Y., Su, K., Song, S., Niu, M., ... &amp; Ishiguro, H.</div>
+        <div class="pub-venue">Neurocomputing, 619, 129106, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Neurocomputing</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J6</div>
+      <div class="pub-content">
+        <div class="pub-title">HGF-MiLaG: Hierarchical Graph Fusion for Emotion Recognition in Conversation with Mid-Late Gender-Aware Strategy</div>
+        <div class="pub-authors">Wang, Y., Hao, R., Li, Z., Kuang, X., Dong, J., Zhang, Q., ... &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Sensors, 25(4), 1182, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Sensors</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J7</div>
+      <div class="pub-content">
+        <div class="pub-title">HAM-GNN: A Hierarchical Attention-based Multi-dimensional Edge Graph Neural Network for Dialogue Act Classification</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Su, Y., Su, K., Liu, Y., Shi, J., Wu, B., ... &amp; Ishiguro, H.</div>
+        <div class="pub-venue">Expert Systems with Applications, 261, 125459, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ESWA</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J8</div>
+      <div class="pub-content">
+        <div class="pub-title">Incorporating Image Representation and Texture Feature for Sensor-based Gymnastics Activity Recognition</div>
+        <div class="pub-authors">Lian, C., Zhao, Y., Sun, T., Shao, J., Liu, Y., <strong>Fu, C.</strong>, ... &amp; Zhan, Z.</div>
+        <div class="pub-venue">Knowledge-Based Systems, 113076, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">KBS</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J9</div>
+      <div class="pub-content">
+        <div class="pub-title">HiMul-LGG: A Hierarchical Decision Fusion-based Local–Global Graph Neural Network for Multimodal Emotion Recognition in Conversation</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Qian, F., Su, K., Su, Y., Wang, Z., Shi, J., ... &amp; Ishi, C. T.</div>
+        <div class="pub-venue">Neural Networks, 181, 106764, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Neural Networks</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J10</div>
+      <div class="pub-content">
+        <div class="pub-title">A Systematic Review on Robot-assisted Language Learning for Adults</div>
+        <div class="pub-authors">Deng, Q., <strong>Fu, C.</strong>, Ban, M., &amp; Iio, T.</div>
+        <div class="pub-venue">Frontiers in Psychology, 15, 1471370, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Front. Psychology</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J11</div>
+      <div class="pub-content">
+        <div class="pub-title">PointTransform Networks for Automatic Depression Level Prediction via Facial Keypoints</div>
+        <div class="pub-authors">Niu, M., Li, M., &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Knowledge-Based Systems, 297, 111951, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">KBS</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J12</div>
+      <div class="pub-content">
+        <div class="pub-title">Modulating Perceived Authority and Warmth of Mobile Social Robots through Bodily Openness and Vertical Movement in Gait</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Wang, S., Li, Z., Gupta, A., Meneses, A., Ishiguro, H., &amp; Yoshikawa, Y.</div>
+        <div class="pub-venue">IEEE Robotics and Automation Letters, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">RA-L</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J13</div>
+      <div class="pub-content">
+        <div class="pub-title">Enhancing Emotional Expression in Cat-like Robots: Strategies for Utilizing Tail Movements with Human-like Gazes</div>
+        <div class="pub-authors">Wang, X., Li, Z., Wang, S., Yang, Y., Peng, Y., &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Frontiers in Robotics and AI, 11, 1399012, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Front. Robotics AI</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J14</div>
+      <div class="pub-content">
+        <div class="pub-title">Enhancing the Mobile Humanoid Robot's Emotional Expression with Affective Vertical-Oscillations</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Alexis, M., Yoshikawa, Y., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">International Journal of Social Robotics, 16(7), 1523–1540, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">IJSR</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J15</div>
+      <div class="pub-content">
+        <div class="pub-title">Image Encoding and Fusion of Multi-modal Data Enhance Depression Diagnosis in Parkinson's Disease Patients</div>
+        <div class="pub-authors">Li, J., Zhao, Y., Zhang, H., Li, W. J., <strong>Fu, C.</strong>, Lian, C., &amp; Shan, P.</div>
+        <div class="pub-venue">IEEE Transactions on Affective Computing, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">IEEE TAC</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J16</div>
+      <div class="pub-content">
+        <div class="pub-title">Global Joint Information Extraction Convolution Neural Network for Parkinson's Disease Diagnosis</div>
+        <div class="pub-authors">Zhao, Y., Liu, Y., Li, J., Wang, X., Yang, R., Lian, C., ... &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Expert Systems with Applications, 243, 122837, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ESWA</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J17</div>
+      <div class="pub-content">
+        <div class="pub-title">Loss Relaxation Strategy for Noisy Facial Video-based Automatic Depression Recognition</div>
+        <div class="pub-authors">Song, S., Luo, Y., Tumer, T., <strong>Fu, C.</strong>, Valstar, M., &amp; Gunes, H.</div>
+        <div class="pub-venue">ACM Transactions on Computing for Healthcare, 5(2), 1–24, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ACM HEALTH</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J18</div>
+      <div class="pub-content">
+        <div class="pub-title">MobileSAM-Track: Lightweight One-shot Tracking and Segmentation of Small Objects on Edge Devices</div>
+        <div class="pub-authors">Liu, Y., Zhao, Y., Zhang, X., Wang, X., Lian, C., Li, J., ... &amp; Li, W. J.</div>
+        <div class="pub-venue">Remote Sensing, 15(24), 5665, 2023</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Remote Sensing</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J19</div>
+      <div class="pub-content">
+        <div class="pub-title">Intelligent IoT Anklets for Monitoring the Assessment of Parkinson's Diseases</div>
+        <div class="pub-authors">Zhao, Y., Liu, Y., Lu, W., Li, J., Shan, P., Lian, C., ... &amp; Wang, Y.</div>
+        <div class="pub-venue">IEEE Sensors Journal, 23(24), 31523–31536, 2023</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">IEEE Sensors J.</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J20</div>
+      <div class="pub-content">
+        <div class="pub-title">Synergy Masks of Domain Attribute Model DaBERT: Emotional Tracking on Time-varying Virtual Space Communication</div>
+        <div class="pub-authors">Wang, Y., Chen, Z., &amp; <strong>Fu, C.</strong></div>
+        <div class="pub-venue">Sensors, 22(21), 8450, 2022</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Sensors</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J21</div>
+      <div class="pub-content">
+        <div class="pub-title">An Improved CycleGAN-based Emotional Voice Conversion Model by Augmenting Temporal Dependency with a Transformer</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">Speech Communication, 144, 110–121, 2022</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Speech Comm.</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J22</div>
+      <div class="pub-content">
+        <div class="pub-title">An Adversarial Training Based Speech Emotion Classifier with Isolated Gaussian Regularization</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE Transactions on Affective Computing, 14(3), 2361–2374, 2022</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">IEEE TAC</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J23</div>
+      <div class="pub-content">
+        <div class="pub-title">A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Deng, Q., Shen, J., Mahzoon, H., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">Sensors, 22(3), 991, 2022</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Sensors</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J24</div>
+      <div class="pub-content">
+        <div class="pub-title">Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., Yoshikawa, Y., Iio, T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE Robotics and Automation Letters, 6(4), 6670–6677, 2021</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">RA-L</span>
+          <span class="badge badge-q1">JCR Q1</span>
+          <span class="badge badge-year">2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J25</div>
+      <div class="pub-content">
+        <div class="pub-title">Sharing Experiences to Help a Robot Present Its Mind and Sociability</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Yoshikawa, Y., Iio, T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">International Journal of Social Robotics, 13, 341–352, 2021</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">IJSR</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">J26</div>
+      <div class="pub-content">
+        <div class="pub-title">Multi-modality Emotion Recognition Model with GAT-based Multi-head Inter-modality Attention</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">Sensors, 20(17), 4894, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Sensors</span>
+          <span class="badge badge-q2">JCR Q2</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+  </div><!-- /journals -->
+
+  <!-- CONFERENCES -->
+  <div class="pub-section fade-in" data-section="conferences">
+    <div class="pub-section-header">
+      <h2><i class="fa-solid fa-microphone-lines" style="color:var(--warm);font-size:1rem;"></i> Conference Papers</h2>
+      <div class="pub-section-line"></div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C1</div>
+      <div class="pub-content">
+        <div class="pub-title">Personality-guided Public-Private Domain Disentangled Hypergraph-Former Network for Multimodal Depression Detection</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Zhao, S., Zhang, Y., Jian, Z., Zhao, S., &amp; Liu, C.</div>
+        <div class="pub-venue">AAAI Conference on Artificial Intelligence, 2026</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">AAAI 2026</span>
+          <span class="badge badge-ccf-a">CCF-A</span>
+          <span class="badge badge-conf-top">Top Conference</span>
+          <span class="badge badge-year">2026</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C2</div>
+      <div class="pub-content">
+        <div class="pub-title">The First MPDD Challenge: Multimodal Personality-aware Depression Detection</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Fu, Z., Zhang, Q., Kuang, X., Dong, J., Su, K., ... &amp; Ishiguro, H.</div>
+        <div class="pub-venue">ACM International Conference on Multimedia, pp. 13924–13929, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ACM MM 2025</span>
+          <span class="badge badge-ccf-a">CCF-A</span>
+          <span class="badge badge-conf-top">Top Conference</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C3</div>
+      <div class="pub-content">
+        <div class="pub-title">DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment</div>
+        <div class="pub-authors">Wu, Z., Zhou, L., Li, S., <strong>Fu, C.</strong>, Lu, J., Han, J., ... &amp; Song, S.</div>
+        <div class="pub-venue">AAAI Conference on Artificial Intelligence, Vol. 39, No. 2, pp. 1610–1619, 2025</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">AAAI 2025</span>
+          <span class="badge badge-ccf-a">CCF-A</span>
+          <span class="badge badge-conf-top">Top Conference</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C4</div>
+      <div class="pub-content">
+        <div class="pub-title">M³ADD: A Novel Benchmark for Physiology Signal-based Automatic Depression Detection with Multimodal Multitask Multievent Framework</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Su, K., Su, Y., Qian, F., Zhang, Y., Liu, C., ... &amp; Zhao, Y.</div>
+        <div class="pub-venue">IEEE ICASSP 2025, pp. 1–5. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICASSP 2025</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C5</div>
+      <div class="pub-content">
+        <div class="pub-title">In-Context Multitask Learning for Few-shot Fine-tuning of Large Language Models in Traditional Chinese Medicine Tongue Diagnosis</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Fu, Z., Yan, S., Lyv, X., &amp; Zhao, Y.</div>
+        <div class="pub-venue">IEEE ICASSP 2025, pp. 1–5. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICASSP 2025</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C6</div>
+      <div class="pub-content">
+        <div class="pub-title">Hierarchical Similarity Loss Enhanced Depth and Structural Fidelity in Monocular RGB-to-Depth Mapping with Adversarial Training</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Su, Y., Su, K., Yang, L., Shan, P., Lv, X., &amp; Zhao, Y.</div>
+        <div class="pub-venue">IEEE ICASSP 2025, pp. 1–5. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICASSP 2025</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2025</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C7</div>
+      <div class="pub-content">
+        <div class="pub-title">LGFAT-RGCN: Faster Attention with Heterogeneous RGCN for Medical ICD Coding Generation</div>
+        <div class="pub-authors">Chen, Z., <strong>Fu, C.</strong>, Wu, R., Wang, Y., Tang, X., &amp; Liang, X.</div>
+        <div class="pub-venue">ACM International Conference on Multimedia, pp. 5428–5435, 2023</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ACM MM 2023</span>
+          <span class="badge badge-ccf-a">CCF-A</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C8</div>
+      <div class="pub-content">
+        <div class="pub-title">対話相手がユーザー自身の顔と声を持つことが自己開示に及ばす影響の予備的検討</div>
+        <div class="pub-authors">名取大雅, <strong>Fu Changzeng</strong>, 石黒浩, 吉川雄一郎</div>
+        <div class="pub-venue">第42回日本ロボット学会学術講演会予稿集, 1H5-06, 2024</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">RSJ 2024</span>
+          <span class="badge badge-year">2024</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C9</div>
+      <div class="pub-content">
+        <div class="pub-title">HAG: Hierarchical Attention with Graph Network for Dialogue Act Classification in Conversation</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Chen, Z., Shi, J., Wu, B., Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE ICASSP 2023, pp. 1–5. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICASSP 2023</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C10</div>
+      <div class="pub-content">
+        <div class="pub-title">I Know Your Feelings Before You Do: Predicting Future Affective Reactions in Human-Computer Dialogue</div>
+        <div class="pub-authors">Li, Y., Inoue, K., Tian, L., <strong>Fu, C.</strong>, Ishi, C. T., Ishiguro, H., ... &amp; Lai, C.</div>
+        <div class="pub-venue">Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1–7</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">CHI 2023</span>
+          <span class="badge badge-ccf-a">CCF-A</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C11</div>
+      <div class="pub-content">
+        <div class="pub-title">Multi-domain Fake News Detection with Fuzzy Labels</div>
+        <div class="pub-authors">Chen, Z., <strong>Fu, C.</strong>, &amp; Tang, X.</div>
+        <div class="pub-venue">International Conference on Database Systems for Advanced Applications (DASFAA), pp. 331–343. Springer, 2023</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">DASFAA 2023</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2023</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C12</div>
+      <div class="pub-content">
+        <div class="pub-title">C-CycleTransGAN: A Non-parallel Controllable Cross-gender Voice Conversion Model with CycleGAN and Transformer</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">APSIPA ASC 2022, pp. 553–559. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">APSIPA 2022</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C13</div>
+      <div class="pub-content">
+        <div class="pub-title">A Controllable Cross-gender Voice Conversion for Social Robot</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">ACIIW 2022, pp. 1–4. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ACIIW 2022</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C14</div>
+      <div class="pub-content">
+        <div class="pub-title">First Attempt of Gender-free Speech Style Transfer for Genderless Robot</div>
+        <div class="pub-authors">Yu, C., <strong>Fu, C.</strong>, Chen, R., &amp; Tapus, A.</div>
+        <div class="pub-venue">ACM/IEEE HRI 2022, pp. 1110–1113. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">HRI 2022</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C15</div>
+      <div class="pub-content">
+        <div class="pub-title">Prosodic and Voice Quality Analyses of Filled Pauses in Japanese Spontaneous Conversation by Chinese Learners and Japanese Native Speakers</div>
+        <div class="pub-authors">Li, X., Ishi, C. T., <strong>Fu, C.</strong>, &amp; Hayashi, R.</div>
+        <div class="pub-venue">Speech Prosody 2022, pp. 550–554</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">Speech Prosody 2022</span>
+          <span class="badge badge-year">2022</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C16</div>
+      <div class="pub-content">
+        <div class="pub-title">CycleTransGAN-EVC: A CycleGAN-based Emotional Voice Conversion Model with Transformer</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">arXiv preprint arXiv:2111.15159, 2021</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">arXiv 2021</span>
+          <span class="badge badge-year">2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C17</div>
+      <div class="pub-content">
+        <div class="pub-title">MAEC: Multi-instance Learning with an Adversarial Auto-encoder-based Classifier for Speech Emotion Recognition</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE ICASSP 2021, pp. 6299–6303. IEEE</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICASSP 2021</span>
+          <span class="badge badge-ccf-b">CCF-B</span>
+          <span class="badge badge-year">2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C18</div>
+      <div class="pub-content">
+        <div class="pub-title">An End-to-end Multitask Learning Model to Improve Speech Emotion Recognition</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">28th European Signal Processing Conference (EUSIPCO), pp. 1–5. IEEE, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">EUSIPCO 2020</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C19</div>
+      <div class="pub-content">
+        <div class="pub-title">JPS-DAPRInfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection</div>
+        <div class="pub-authors"><strong>Fu, C.</strong></div>
+        <div class="pub-venue">arXiv preprint arXiv:2103.11786, 2021</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">arXiv 2021</span>
+          <span class="badge badge-year">2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C20</div>
+      <div class="pub-content">
+        <div class="pub-title">AAEC: An Adversarial Autoencoder-based Classifier for Audio Emotion Recognition</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Shi, J., Liu, C., Ishi, C. T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop, pp. 45–51, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">MuSe 2020</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C21</div>
+      <div class="pub-content">
+        <div class="pub-title">A Study on Training Story Generation Models Based on Event Representations</div>
+        <div class="pub-authors">Shen, J., <strong>Fu, C.</strong>, Deng, X., &amp; Ino, F.</div>
+        <div class="pub-venue">3rd International Conference on Artificial Intelligence and Big Data (ICAIBD), pp. 210–214. IEEE, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICAIBD 2020</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C22</div>
+      <div class="pub-content">
+        <div class="pub-title">SeMemNN: A Semantic Matrix-based Memory Neural Network for Text Classification</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Liu, C., Ishi, C., Yoshikawa, Y., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE International Conference on Semantic Computing (ICSC), pp. 123–127, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICSC 2020</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">C23</div>
+      <div class="pub-content">
+        <div class="pub-title">Similarity of Speech Emotion in Different Languages Revealed by a Neural Network with Attention</div>
+        <div class="pub-authors"><strong>Fu, C.</strong>, Dissanayake, T., Hosoda, K., Maekawa, T., &amp; Ishiguro, H.</div>
+        <div class="pub-venue">IEEE International Conference on Semantic Computing (ICSC), pp. 381–386, 2020</div>
+        <div class="pub-tags">
+          <span class="badge badge-venue">ICSC 2020</span>
+          <span class="badge badge-year">2020</span>
+        </div>
+      </div>
+    </div>
+  </div><!-- /conferences -->
+
+  <!-- PATENTS -->
+  <div class="pub-section fade-in" data-section="patents">
+    <div class="pub-section-header">
+      <h2><i class="fa-solid fa-certificate" style="color:var(--warm);font-size:1rem;"></i> Patents</h2>
+      <div class="pub-section-line"></div>
+    </div>
+    <p style="font-size:0.88rem;color:var(--ink2);margin-bottom:20px;">国内外专利十余项（部分代表性专利如下）</p>
+
+    <div class="patent-item">
+      <h4>基于图注意力机制的多模态情感分析模型</h4>
+      <p><strong>Changzeng Fu</strong>; Chaoran Liu; Carlos Toshinori Ishi · JP.2022072619.A · 日本 · 2022-07-26</p>
+    </div>
+    <div class="patent-item">
+      <h4>基于对抗编码器的情感数据增强训练方法及分类器</h4>
+      <p><strong>Changzeng Fu</strong>; Chaoran Liu; Carlos Toshinori Ishi · JP.202280435.A · 日本 · 2022-05-30</p>
+    </div>
+    <div class="patent-item">
+      <h4>基于隐层表征隔离高斯化的情感分类器</h4>
+      <p><strong>Changzeng Fu</strong>; Chaoran Liu; Carlos Toshinori Ishi · JP.2022147397.A · 日本 · 2022-10-06</p>
+    </div>
+    <div class="patent-item">
+      <h4>一种基于多层级图注意力机制的对话行为识别方法</h4>
+      <p><strong>傅昌锃 (Changzeng Fu)</strong> · 202310604666.7 · 中国</p>
+    </div>
+    <div class="patent-item">
+      <h4>具备情感交互能力的社交机器人及系统</h4>
+      <p><strong>傅昌锃 (Changzeng Fu)</strong> · 2002310755637.0 · 中国</p>
+    </div>
+    <div style="padding:14px 20px;background:var(--bg2);border:1px dashed var(--border);border-radius:var(--radius);font-size:0.82rem;color:var(--ink2);">
+      <i class="fa-solid fa-info-circle" style="color:var(--warm);margin-right:6px;"></i> 另有多项已授权国内外专利，合计十余项。
+    </div>
+  </div><!-- /patents -->
+
+  <!-- GRANTS -->
+  <div class="pub-section fade-in" data-section="grants">
+    <div class="pub-section-header">
+      <h2><i class="fa-solid fa-coins" style="color:var(--warm);font-size:1rem;"></i> Research Grants</h2>
+      <div class="pub-section-line"></div>
+    </div>
+
+    <div class="grant-item">
+      <h4>National Natural Science Foundation of China (NSFC) <span class="grant-role">Principal Investigator</span></h4>
+      <p>Grant No. 62306068 · 2024 – Present</p>
+    </div>
+    <div class="grant-item">
+      <h4>Natural Science Foundation of Hebei Province <span class="grant-role">Principal Investigator</span></h4>
+      <p>Grant No. F2024501002 · 2024 – Present</p>
+    </div>
+    <div class="grant-item">
+      <h4>Humanware Innovation Program — Research Support Grant (専門分野研究活動支援金) <span class="grant-role">Principal Investigator</span></h4>
+      <p>Osaka University · 2018 – 2022</p>
+    </div>
+    <div class="grant-item">
+      <h4>Humanware Innovation Program — Interdisciplinary Research Support Grant (融合分野研究活動支援金) <span class="grant-role">Member</span></h4>
+      <p>Osaka University · 2020 – 2021</p>
+    </div>
+    <div class="grant-item">
+      <h4>Humanware Innovation Program — Interdisciplinary Research Support Grant (融合分野研究活動支援金) <span class="grant-role">Principal Investigator</span></h4>
+      <p>Osaka University · 2021 – 2022</p>
+    </div>
+  </div><!-- /grants -->
+
+</div><!-- /pub-main -->
+
+<footer style="background:#12100c;color:rgba(255,255,255,0.4);text-align:center;padding:28px 40px;font-size:0.8rem;">
+  <p>© 2025 Changzeng Fu 傅昌锃 · HACI Lab, Northeastern University · <a href="index.html" style="color:#e8824a">Home</a></p>
+</footer>
+
+<script>
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); observer.unobserve(e.target); } });
+}, { threshold: 0.08 });
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+function filterSections(cat, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.pub-section').forEach(sec => {
+    if (cat === 'all' || sec.dataset.section === cat) {
+      sec.style.display = '';
+    } else {
+      sec.style.display = 'none';
+    }
+  });
+}
+</script>
+</body>
+</html>
