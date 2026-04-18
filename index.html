@@ -126,175 +126,9 @@ nav {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow-lg);
-  padding: 40px;
+  padding: 20px;
   margin: 0 auto 48px;
   overflow-x: auto;
-}
-.arch-container::-webkit-scrollbar { height: 8px; }
-.arch-container::-webkit-scrollbar-track { background: var(--bg2); border-radius: 4px; }
-.arch-container::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
-.arch-container::-webkit-scrollbar-thumb:hover { background: var(--ink2); }
-
-/* Added layout wrapper */
-.arch-layout {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
-  min-width: max-content; /* Ensure it scrolls if too small */
-}
-
-/* Info Panel */
-.arch-info {
-  flex: 0 0 320px;
-  background: var(--bg);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 30px;
-  box-shadow: var(--shadow);
-}
-.arch-info h3 {
-  font-family: var(--serif);
-  font-size: 1.15rem;
-  color: var(--ink);
-  margin-bottom: 12px;
-}
-.arch-info p {
-  font-size: 0.88rem;
-  color: var(--ink2);
-  line-height: 1.7;
-  margin-bottom: 20px;
-}
-.arch-info-list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-.arch-info-list li {
-  font-size: 0.85rem;
-  color: var(--ink);
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
-}
-.arch-info-list i {
-  color: var(--warm);
-  font-size: 0.9rem;
-  margin-top: 3px;
-}
-
-.tree {
-  display: flex;
-  justify-content: flex-start;
-  min-width: max-content;
-}
-.tree ul {
-  padding-left: 40px;
-  position: relative;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.tree > ul { padding-left: 0; }
-.tree ul::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 50%;
-  width: 20px;
-  height: 2px;
-  background-color: var(--border);
-}
-.tree > ul::before { display: none; }
-.tree li {
-  position: relative;
-  display: flex;
-  align-items: center;
-  padding: 12px 0;
-}
-.tree li::before {
-  content: '';
-  position: absolute;
-  left: -20px;
-  top: 50%;
-  width: 20px;
-  height: 2px;
-  background-color: var(--border);
-}
-.tree li::after {
-  content: '';
-  position: absolute;
-  left: -20px;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background-color: var(--border);
-}
-.tree li:first-child::after { top: 50%; }
-.tree li:last-child::after { bottom: 50%; }
-.tree li:only-child::after { display: none; }
-.tree > ul > li::before, .tree > ul > li::after { display: none; }
-.arch-node {
-  background: var(--card);
-  border: 1.5px solid var(--ink2);
-  border-radius: 8px;
-  padding: 14px 20px;
-  color: var(--ink);
-  font-family: var(--sans);
-  position: relative;
-  z-index: 2;
-  text-align: center;
-  font-weight: 500;
-  box-shadow: 0 2px 8px rgba(30,24,16,0.04);
-  transition: all 0.2s ease;
-}
-.arch-node:hover {
-  border-color: var(--warm);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(200,96,42,0.1);
-}
-.arch-node.root-node {
-  font-size: 1.2rem;
-  font-weight: 700;
-  padding: 18px 32px;
-  border-width: 2px;
-}
-.arch-node.mid-node {
-  width: 240px;
-  white-space: normal;
-  font-size: 0.95rem;
-}
-.arch-node.leaf-node {
-  text-align: left;
-  padding: 14px 18px;
-  width: 340px;
-  white-space: normal;
-}
-.leaf-title {
-  font-weight: 600;
-  font-size: 0.92rem;
-  color: var(--ink);
-  margin-bottom: 6px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.leaf-title::before {
-  content: '';
-  display: block;
-  width: 6px;
-  height: 6px;
-  background: var(--warm);
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-.leaf-desc {
-  font-size: 0.82rem;
-  color: var(--ink2);
-  line-height: 1.5;
 }
 .research-card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; transition: all 0.3s; position:relative; overflow:hidden; }
 .research-card::before { content:''; position:absolute; top:0; left:0; right:0; height:3px; background: linear-gradient(90deg, var(--warm), var(--warm2)); transform: scaleX(0); transform-origin:left; transition: transform 0.3s; }
@@ -485,78 +319,132 @@ footer a { color: var(--warm2); text-decoration:none; }
     <p class="section-subtitle">We combine cognitive science, psychology, robotics, and AI to explore emotion-aware intelligent systems — from theory to real-world applications.</p>
   </div>
   <div class="arch-container fade-in">
-    <div class="arch-layout">
-      <div class="tree">
-        <ul>
-          <li>
-            <div class="arch-node root-node">HACI</div>
-            <ul>
-              <li>
-                <div class="arch-node mid-node">Social Interaction</div>
-                <ul>
-                  <li>
-                    <div class="arch-node leaf-node">
-                      <div class="leaf-title">Long-term Interaction</div>
-                      <div class="leaf-desc">Building sustained engagement and trust over extended periods.</div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="arch-node leaf-node">
-                      <div class="leaf-title">Rapport Building</div>
-                      <div class="leaf-desc">Fostering emotional resonance and social bonds between humans and agents.</div>
-                    </div>
-                  </li>
-                </ul>
-              </li>
-              <li>
-                  <div class="arch-node mid-node">Multimodal Behavior recognition</div>
-                  <ul>
-                    <li>
-                      <div class="arch-node leaf-node">
-                        <div class="leaf-title">Multimodal Emotion Recognition</div>
-                        <div class="leaf-desc">Analyzing speech, vision, and text to accurately perceive human emotions.</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="arch-node leaf-node">
-                        <div class="leaf-title">Personality-aware depression detection</div>
-                        <div class="leaf-desc">Inferring user personality traits from multimodal behavioral cues for mental health assessment.</div>
-                      </div>
-                    </li>
-                  </ul>
-                </li>
-              <li>
-                  <div class="arch-node mid-node">Multimodal Affective Expression</div>
-                  <ul>
-                    <li>
-                      <div class="arch-node leaf-node">
-                        <div class="leaf-title">Affective Behavior Generation</div>
-                        <div class="leaf-desc">Synthesizing emotionally expressive speech, facial expressions, and gestures.</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="arch-node leaf-node">
-                        <div class="leaf-title">Agent-based Affective Interaction Strategy</div>
-                        <div class="leaf-desc">Designing policies for empathetic and socially appropriate agent responses.</div>
-                      </div>
-                    </li>
-                  </ul>
-                </li>
-            </ul>
-          </li>
-        </ul>
-      </div>
+    <svg width="100%" viewBox="0 0 1020 680" role="img" xmlns="http://www.w3.org/2000/svg" style="display:block;">
+      <title>HACI research framework tree diagram</title>
+      <desc>HACI tree with three research tracks and six leaf topics, plus framework summary panel.</desc>
 
-      <div class="arch-info">
-        <h3>Research Framework</h3>
-        <p>The <strong>HACI</strong> focus on multimodal perception, cognitive reasoning, and affective expression to build socially intelligent agents.</p>
-        <ul class="arch-info-list">
-          <li><i class="fa-solid fa-arrow-right"></i> Perceiving human states through multimodal signals</li>
-          <li><i class="fa-solid fa-arrow-right"></i> Modeling psychological and cognitive mechanisms</li>
-          <li><i class="fa-solid fa-arrow-right"></i> Synthesizing empathetic and expressive behaviors</li>
-        </ul>
-      </div>
-    </div>
+      <!-- ── RIGHT PANEL  x=692..1008 ── -->
+      <rect x="692" y="14" width="316" height="652" rx="10" fill="#faf7f2" stroke="#d8cfc0" stroke-width="1"/>
+      <circle cx="710" cy="38" r="4" fill="#c8602a"/>
+      <text x="722" y="43" font-family="'Lora',Georgia,serif" font-size="14" font-weight="600" fill="#1e1810">Research Framework</text>
+      <line x1="704" y1="54" x2="996" y2="54" stroke="#d8cfc0" stroke-width="0.6"/>
+      <text x="706" y="74" font-size="11.5" fill="#5a4f42">The HACI lab combines multimodal perception,</text>
+      <text x="706" y="90" font-size="11.5" fill="#5a4f42">cognitive reasoning, and affective expression</text>
+      <text x="706" y="106" font-size="11.5" fill="#5a4f42">to build socially intelligent agents.</text>
+      <line x1="704" y1="120" x2="996" y2="120" stroke="#d8cfc0" stroke-width="0.6"/>
+      <text x="706" y="140" font-size="13" font-weight="500" fill="#1e1810">Key Objectives</text>
+      <rect x="704" y="150" width="292" height="58" rx="6" fill="#e8f4f6" stroke="#3a9aad" stroke-width="0.6"/>
+      <text x="714" y="168" font-size="11.5" fill="#0d4f5a">Perceive human states through multimodal signals</text>
+      <!-- <text x="714" y="184" font-size="11.5" fill="#0d4f5a">multimodal signals</text> -->
+      <text x="714" y="200" font-size="10.5" font-style="italic" fill="#2a7d8c">Speech · Vision · Text · Physiological Signals</text>
+      <rect x="704" y="218" width="292" height="58" rx="6" fill="#e8f4f6" stroke="#3a9aad" stroke-width="0.6"/>
+      <text x="714" y="236" font-size="11.5" fill="#0d4f5a">Model psychological and cognitive mechanisms</text>
+      <!-- <text x="714" y="252" font-size="11.5" fill="#0d4f5a">mechanisms</text> -->
+      <text x="714" y="268" font-size="10.5" font-style="italic" fill="#2a7d8c">Personality · Emotion</text>
+      <rect x="704" y="286" width="292" height="58" rx="6" fill="#e8f4f6" stroke="#3a9aad" stroke-width="0.6"/>
+      <text x="714" y="304" font-size="11.5" fill="#0d4f5a">Synthesize empathetic and expressive behaviors</text>
+      <!-- <text x="714" y="320" font-size="11.5" fill="#0d4f5a">expressive behaviors</text> -->
+      <text x="714" y="336" font-size="10.5" font-style="italic" fill="#2a7d8c">Speech · Face · Gesture</text>
+      <line x1="704" y1="356" x2="996" y2="356" stroke="#d8cfc0" stroke-width="0.6"/>
+      <text x="706" y="376" font-size="13" font-weight="500" fill="#1e1810">Applications</text>
+      <text x="706" y="397" font-size="11.5" fill="#5a4f42">· Social robotics &amp; HRI / HAI</text>
+      <text x="706" y="415" font-size="11.5" fill="#5a4f42">· Mental health assessment</text>
+      <text x="706" y="433" font-size="11.5" fill="#5a4f42">· Affective dialogue systems</text>
+      <text x="706" y="451" font-size="11.5" fill="#5a4f42">· Human-agent long-term bonds</text>
+      <line x1="704" y1="468" x2="996" y2="468" stroke="#d8cfc0" stroke-width="0.6"/>
+      <text x="706" y="488" font-size="13" font-weight="500" fill="#1e1810">Modalities</text>
+      <rect x="706" y="498" width="56" height="20" rx="10" fill="#fff0e8" stroke="#c8602a" stroke-width="0.7"/>
+      <text x="734" y="512" text-anchor="middle" font-size="10.5" fill="#7a2e0e">Audio</text>
+      <rect x="770" y="498" width="56" height="20" rx="10" fill="#fff0e8" stroke="#c8602a" stroke-width="0.7"/>
+      <text x="798" y="512" text-anchor="middle" font-size="10.5" fill="#7a2e0e">Video</text>
+      <rect x="706" y="524" width="56" height="20" rx="10" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="0.7"/>
+      <text x="734" y="538" text-anchor="middle" font-size="10.5" fill="#0d4f5a">Text</text>
+      <rect x="770" y="524" width="90" height="20" rx="10" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="0.7"/>
+      <text x="815" y="538" text-anchor="middle" font-size="10.5" fill="#0d4f5a">Physiology</text>
+
+      <!-- ── TREE  x=8..680 ── -->
+      <!-- Root cy=310, Mid cy=110/310/510, Leaf cy=60/160/260/360/460/560 -->
+
+      <!-- ROOT -->
+      <rect x="8" y="288" width="82" height="44" rx="8" fill="#1e1810"/>
+      <text x="49" y="310" text-anchor="middle" dominant-baseline="central" font-family="'Lora',Georgia,serif" font-size="17" font-weight="700" fill="#faf7f2">HACI</text>
+
+      <!-- Main trunk and spine -->
+      <line x1="90" y1="310" x2="112" y2="310" stroke="#d8cfc0" stroke-width="1.4"/>
+      <line x1="112" y1="110" x2="112" y2="510" stroke="#d8cfc0" stroke-width="1.4"/>
+      <line x1="112" y1="110" x2="134" y2="110" stroke="#d8cfc0" stroke-width="1.4"/>
+      <line x1="112" y1="310" x2="134" y2="310" stroke="#d8cfc0" stroke-width="1.4"/>
+      <line x1="112" y1="510" x2="134" y2="510" stroke="#d8cfc0" stroke-width="1.4"/>
+
+      <!-- MID 1: Social Interaction -->
+      <rect x="134" y="80" width="160" height="60" rx="7" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="1"/>
+      <text x="214" y="104" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Social</text>
+      <text x="214" y="122" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Interaction</text>
+
+      <!-- MID 2: Multimodal Behavior Recognition -->
+      <rect x="134" y="280" width="160" height="60" rx="7" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="1"/>
+      <text x="214" y="304" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Multimodal Behavior</text>
+      <text x="214" y="322" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Recognition</text>
+
+      <!-- MID 3: Multimodal Affective Expression -->
+      <rect x="134" y="480" width="160" height="60" rx="7" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="1"/>
+      <text x="214" y="504" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Multimodal Affective</text>
+      <text x="214" y="522" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0d4f5a">Expression</text>
+
+      <!-- Branch spines -->
+      <line x1="294" y1="110" x2="312" y2="110" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="60" x2="312" y2="160" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="60" x2="328" y2="60" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="160" x2="328" y2="160" stroke="#d8cfc0" stroke-width="1"/>
+
+      <line x1="294" y1="310" x2="312" y2="310" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="260" x2="312" y2="360" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="260" x2="328" y2="260" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="360" x2="328" y2="360" stroke="#d8cfc0" stroke-width="1"/>
+
+      <line x1="294" y1="510" x2="312" y2="510" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="460" x2="312" y2="560" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="460" x2="328" y2="460" stroke="#d8cfc0" stroke-width="1"/>
+      <line x1="312" y1="560" x2="328" y2="560" stroke="#d8cfc0" stroke-width="1"/>
+
+      <!-- LEAF 1a: Long-term Interaction -->
+      <rect x="328" y="34" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="54" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Long-term Interaction</text>
+      <text x="338" y="72" dominant-baseline="central" font-size="11" fill="#a04520">Building sustained engagement and trust over extended periods</text>
+
+      <!-- LEAF 1b: Rapport Building -->
+      <rect x="328" y="134" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="154" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Rapport Building</text>
+      <text x="338" y="172" dominant-baseline="central" font-size="11" fill="#a04520">Fostering emotional resonance and social bonds</text>
+
+      <!-- LEAF 2a: Multimodal Emotion Recognition -->
+      <rect x="328" y="234" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="254" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Multimodal Emotion Recognition</text>
+      <text x="338" y="272" dominant-baseline="central" font-size="11" fill="#a04520">Analyzing speech, vision, and text to perceive human emotions</text>
+
+      <!-- LEAF 2b: Depression Detection -->
+      <rect x="328" y="334" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="354" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Personality-aware Depression Detection</text>
+      <text x="338" y="372" dominant-baseline="central" font-size="11" fill="#a04520">Inferring personality traits for mental health assessment</text>
+
+      <!-- LEAF 3a: Affective Behavior Generation -->
+      <rect x="328" y="434" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="454" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Affective Behavior Generation</text>
+      <text x="338" y="472" dominant-baseline="central" font-size="11" fill="#a04520">Synthesizing expressive speech, facial expressions, and gestures</text>
+
+      <!-- LEAF 3b: Affective Interaction Strategy -->
+      <rect x="328" y="534" width="340" height="52" rx="5" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="338" y="554" dominant-baseline="central" font-size="12" font-weight="500" fill="#7a2e0e">Agent-based Affective Interaction Strategy</text>
+      <text x="338" y="572" dominant-baseline="central" font-size="11" fill="#a04520">Designing empathetic and socially appropriate agent responses</text>
+
+      <!-- Legend -->
+      <rect x="8" y="646" width="10" height="10" rx="2" fill="#1e1810"/>
+      <text x="22" y="655" font-size="11" fill="#5a4f42">Lab root</text>
+      <rect x="88" y="646" width="10" height="10" rx="2" fill="#e8f4f6" stroke="#2a7d8c" stroke-width="0.8"/>
+      <text x="102" y="655" font-size="11" fill="#5a4f42">Research track</text>
+      <rect x="202" y="646" width="10" height="10" rx="2" fill="#fdf1eb" stroke="#c8602a" stroke-width="0.8"/>
+      <text x="216" y="655" font-size="11" fill="#5a4f42">Topic</text>
+    </svg>
   </div>
   <div class="research-grid">
     <div class="research-card fade-in">
